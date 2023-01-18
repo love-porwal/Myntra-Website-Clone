@@ -1,0 +1,6 @@
+#footer_first {
+    display: flex;
+}
+#footer_first div{
+border: 1px solid black;
+}
