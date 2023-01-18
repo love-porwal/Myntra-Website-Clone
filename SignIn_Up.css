@@ -1,0 +1,152 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:calibri;
+    box-sizing:border-box;
+ }
+body,html{
+    background: #FCEEEA;
+    width:100%;
+    height:100%;
+    margin:auto;
+    /* text-align:center; */
+ }
+.container{
+    width:100%;
+    margin:auto;
+    text-align: center;
+ }
+.top{
+        height:100px;
+        background: #F7F7F7;
+        margin:0 100px;
+        line-height:80px;
+    }
+.top>img{
+        width:20%;
+        height:100%;
+    }
+.signIn{
+        width:400px;
+        background: white;
+        margin:auto;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        text-align:center;
+        margin-top:50px;
+        font-size:30px;
+        padding:20px;
+        
+    }
+   
+.signIn input{
+        width:80%;
+        height:30px;
+        margin-top:20px;
+       font-size:20px;
+       text-align:left;
+    }
+#signIn>input:nth-child(5){
+        text-align:center;
+        background:#FF3E6C;
+        color:white;
+        
+    }
+#p2 {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        text-align:center;
+    }
+      
+#p2:before,
+ #p2:after {
+        content: "";
+        flex: 1 1;
+        border-bottom: 2px solid #000;
+        margin: auto;
+    }
+#img1{
+        width:30%;
+        margin-top:20px;
+    }
+.signIn>div{
+        display:flex;
+        font-size: 25px;
+        text-align: center;
+        margin:0% 25%;
+    }
+.signUp{
+    width:400px;
+    background:white;
+    margin:auto;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    text-align:center;
+    margin-top:50px;
+    font-size:30px;
+    padding:20px;
+   display:none;
+}
+.signUp>p{
+    font-size: 20px;;
+}
+.signUp input{
+   width:80%;
+    height:30px;
+    margin-top:20px;
+    font-size:20px;
+    text-align:left;
+}
+#signUp>input:nth-child(11){
+background:#FF3E6C;
+color:white;
+text-align: center;
+}
+.signUp>div{
+    display:flex;
+    text-align:center;
+    margin:0% 25%;
+}
+#pSignIn{
+    color:blue;
+}
+#pSignUp{
+    color:blue;
+}
+.signIn>p{
+    font-size: 20px;
+    line-height: 5px;;
+}
+
+   
+@media(max-width:800px){
+    .signIn{
+        /* width:40%; */
+        font-size: 20px;
+        text-align: center;
+      }
+      .signIn>div{
+        display:normal;
+        text-align:center;
+      }
+    }
+    .signUp{
+        /* width:40%; */
+        font-size: 20px;
+    }
+@media(max-width:400px){
+      .signIn{
+        /* width:70%; */
+        font-size: 20px;
+        text-align: center;
+      }
+      .signIn>div{
+        display:normal;
+        text-align:center;
+      }
+      .signUp{
+        /* width:70%; */
+        font-size: 20px;
+    }
+      
+
+    }
