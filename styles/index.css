@@ -374,7 +374,7 @@
   }
   
   .dropdown:hover .dropbtn {
-    padding-bottom: 18px !important;
+    padding-bottom: 18px;
     border-bottom: 3px solid #ee5f73;
   }
   .new {
