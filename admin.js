@@ -14,7 +14,8 @@ let signIn=document.querySelector(".signIn");
         document.title="Sign Up"
     })
     
-    let users = JSON.parse(localStorage.getItem("usersData"))||[];
+    let users = JSON.parse(localStorage.getItem("Admin_Data"))||[];
+    let users_id=JSON.parse(localStorage.getItem("User_id"))||[];
    
     fsignUp.addEventListener("submit",function(e){
         e.preventDefault();
@@ -37,12 +38,13 @@ let signIn=document.querySelector(".signIn");
             else{
                 let user ={
                     name: fsignUp.name.value,
+                    User_Name:fsignUp.User_name.value,
                     email: fsignUp.email.value,
                     mobile: fsignUp.mobile.value,
                     password: fsignUp.password.value
                 }
                 users.push(user);
-                localStorage.setItem("usersData",JSON.stringify(users));
+                localStorage.setItem("Admin_Data",JSON.stringify(users));
                 alert("Sign up successfull!");
                 signIn.style.display="block";
                 signUp.style.display="none";
@@ -79,7 +81,10 @@ let signIn=document.querySelector(".signIn");
         }
         else{
             alert("login successfull");
-            window.location.assign("./index.html")
+            users_id.push(obj)
+            localStorage.setItem("User_id",JSON.stringify(users_id))
+
+            window.location.assign("./Admin_Data.html")
         }
        }
       
