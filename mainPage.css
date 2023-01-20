@@ -1,0 +1,22 @@
+/* body {
+    border: 2px solid green;
+}
+div {
+    border: 1px solid black;
+}
+#third {
+    border: 1px solid rgb(211, 16, 16);
+} */
+#parent{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    border: 5px solid brown;
+    height: 1000px;
+    
+}
+/* #parent>#first{
+    width: 60%;
+    margin: auto;
+} */
