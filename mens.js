@@ -105,7 +105,7 @@ function sortProducts() {
     } else if (sortCriteria === "whatsNew") {
       return prodB.id - prodA.id;
     }else if (sortCriteria === "Discount") {
-      return prodB.Percantage - prodA.Percantage;
+      return prodB.discount - prodA.discount;;
     } else {
       return true;
     }
@@ -113,6 +113,55 @@ function sortProducts() {
   displayProducts(updatedProductList);
 }
 
+
+
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  // filter Product By Brand
+
+  let FilterBrand = document.getElementById("filterButtonBrand");
+
+  FilterBrand.addEventListener("click", (event) => {
+      let productList = JSON.parse(localStorage.getItem("mens"));
+      let filter = event.target.checked;
+      let sortCriteria = sortButton.value;
+      let filterCriteria = event.target.value;
+      if (filter) {
+        let updatedProductList = productList.filter((prod) => {
+          if (filterCriteria === "Roadster") {
+            return prod.title == "Roadster";
+          } else if (filterCriteria === "WROGN") {
+            return prod.title == "WROGN";
+          } else if (filterCriteria === "HRX by Hrithik Roshan") {
+            return prod.title == "HRX by Hrithik Roshan";
+          } else if (filterCriteria === "Louis Philippe Sport") {
+            return prod.title == "Louis Philippe Sport";
+          } else if (filterCriteria === "Puma") {
+            return prod.title == "Puma";
+          } else {
+            return true;
+          }
+        }).sort((prodA, prodB) => {
+          if (sortCriteria === "asc") {
+            return prodA.realPrice - prodB.realPrice;
+          } else if (sortCriteria === "desc") {
+            return prodB.realPrice - prodA.realPrice;
+          } else if (sortCriteria === "whatsNew") {
+            return prodB.id - prodA.id;
+          }  else if (sortCriteria === "discount") {
+            return prodB.Percantage - prodA.Percantage;
+          } else {
+            return true;
+          }
+        });
+        displayProducts(updatedProductList);
+      }
+      else{
+        displayProducts(JSON.parse(localStorage.getItem("mens")))
+      }
+    });
+//=============================================================================
 //filter by price 
   // let FilterPrice = document.getElementById("filterButtonPrice");
   
@@ -144,7 +193,7 @@ function sortProducts() {
   //         return prodB.realPrice  - prodA.realPrice ;
   //       } else if (sortCriteria === "whatsNew") {
   //         return prodB.id - prodA.id;
-  //       }  else if (sortCriteria === "Percantage") {
+  //       }  else if (sortCriteria === "Discount") {
   //         return prodB.Percantage - prodA.Percantage;
   //       } else {
   //         return true;
@@ -153,3 +202,32 @@ function sortProducts() {
   //     displayProducts(updatedProductList);
   //   }
   // });
+
+
+
+  //
+  let FilterPrice = document.getElementById("filterButtonPrice");
+
+FilterPrice.addEventListener("click", (event) => {
+  let prodList = JSON.parse(localStorage.getItem("mens"));
+  let filter = event.target.checked;
+
+  if (filter) {
+    let filterCriteria = event.target.value;
+
+    let updatedProductList = prodList.filter((prod) => {
+      if (filterCriteria === "174-1881") {
+        return prod.realPrice >= "174" && prod.realPrice <= "1881";
+      } else if (filterCriteria === "1881-3588") {
+        return prod.realPrice > 1881 && prod.realPrice <= 3588;
+      } else if (filterCriteria === "3588-5295") {
+        return prod.realPrice > 3588 && prod.realPrice <= 5299;
+      } else if (filterCriteria === "5295-7002") {
+        return prod.realPrice > 5295 && prod.realPrice <= 7002;
+      } else {
+        return true;
+      }
+    });
+    displayProducts(updatedProductList);
+  }
+});
