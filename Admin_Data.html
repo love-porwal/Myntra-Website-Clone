@@ -21,15 +21,55 @@
     <h3>Total beauty product is <span id="Beauty"></span>.</h3>
     <h3>Total kids product is <span id="Kid"></span>.</h3>
     <h3>Total homes product is <span id="Home"></span>.</h3>
+   
     
     
     
     <div class="Add_Data">
      <form id="Add_Data">
-        
+        <select id="Select" style="width:80%">
+         <option value="Men">Men</option>
+         <option value="Women">Women</option>
+         <option value="Beauty">Beauty</option>
+         <option value="Kids">Kids</option>
+         <option value="Home">Home</option>
+        </select>
+        <br>
+        <input type="text" placeholder="Enter Title"  id="Title" required>
+        <br>
+        <input type="text" placeholder="Enter Img Link"  id="Link" required>
+        <br>
+        <input type="text" placeholder="Enter Real Price"  id="RPrice" required>
+        <br>
+        <input type="text" placeholder="Enter Off Price"  id="OPrice" required>
+        <br>
+        <input type="text" placeholder="Enter Description"  id="Description" required>
+        <br>
+        <input type="text" placeholder="Enter Percentage"  id="Percentage" required>
+        <br>
+        <input type="text" placeholder="Enter Category"  id="Category" required>
+        <br>
+        <input type="text" placeholder="Enter Id"  id="Id" required>
+        <br>
+        <input type="submit" style="background-color:Red color;">
      </form>
     </div>
-    <div></div>
+    <div class="Remove_Data">
+        <form id="Remove_Data">
+            <select id="Select1" style="width:80%">
+                <option value="Men">Men</option>
+                <option value="Women">Women</option>
+                <option value="Beauty">Beauty</option>
+                <option value="Kids">Kids</option>
+                <option value="Home">Home</option>
+            </select>
+            <br>
+            <input type="text" placeholder="Enter Id"  id="Id1" required>
+            <br>
+            <input type="submit" style="background-color:Red color;">
+        </form>
+
+    </div>
 </body>
 <script src="Admin_Data.js"></script>
 </html>
