@@ -162,6 +162,41 @@ function sortProducts() {
       }
     });
 //=============================================================================
+let Filterdiscount = document.getElementById("filterButtonDiscount");
+
+Filterdiscount.addEventListener("click", (event) => {
+  let prodList = JSON.parse(localStorage.getItem("kid"));
+  let filter = event.target.checked;
+
+  if (filter) {
+    let filterCriteria = event.target.value;
+
+    let updatedProductList = prodList.filter((prod) => {
+      if (filterCriteria === "10") {
+        return prod.Percantage >= 10 ;
+      } else if (filterCriteria === "20") {
+        return prod.Percantage >= 20 ;
+      } else if (filterCriteria === "30") {
+        return prod.Percantage > 30 ;
+      } else if (filterCriteria === "40") {
+        return prod.Percantage > 40;
+      } else if (filterCriteria === "50") {
+        return prod.Percantage >= 50 ;
+      } else if (filterCriteria === "60") {
+        return prod.Percantage > 60 ;
+      } else if (filterCriteria === "70") {
+        return prod.Percantage > 70;
+      } else if (filterCriteria === "80") {
+        return prod.Percantage > 80 ;
+      } else if (filterCriteria === "90") {
+        return prod.Percantage > 90;
+      } else {
+        return true;
+      }
+    });
+    displayProducts(updatedProductList);
+  }
+});
 
 
 
