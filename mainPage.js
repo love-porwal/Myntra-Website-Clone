@@ -4,11 +4,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.First);
+    firstdisplay(data.First);
 
 })
 
-function display(data) {
+function firstdisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -22,11 +22,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.Second)
 
-    display(data.Second);
+    seconddisplay(data.Second);
 
 })
 
-function display(data) {
+function seconddisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -40,11 +40,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Third);
+    thirddisplay(data.Third);
 
 })
 
-function display(data) {
+function thirddisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -58,11 +58,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Four);
+    fourdisplay(data.Four);
 
 })
 
-function display(data) {
+function fourdisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -76,11 +76,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Five);
+    fivedisplay(data.Five);
 
 })
 
-function display(data) {
+function fivedisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -94,11 +94,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Six);
+    sixdisplay(data.Six);
 
 })
 
-function display(data) {
+function sixdisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -112,11 +112,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Seven);
+    sevendisplay(data.Seven);
 
 })
 
-function display(data) {
+function sevendisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -130,11 +130,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Eight);
+    eightdisplay(data.Eight);
 
 })
 
-function display(data) {
+function eightdisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -148,11 +148,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Nine);
+    ninedisplay(data.Nine);
 
 })
 
-function display(data) {
+function ninedisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -166,11 +166,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Ten);
+    tendisplay(data.Ten);
 
 })
 
-function display(data) {
+function tendisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)
@@ -184,11 +184,11 @@ fetch("main.json").then((res) => {
 }).then((data) => {
     console.log(data.First)
 
-    display(data.Eleven);
+    elevendisplay(data.Eleven);
 
 })
 
-function display(data) {
+function elevendisplay(data) {
     data.forEach(element => {
         let Div = document.createElement("img");
         Div.setAttribute("src", element.img)

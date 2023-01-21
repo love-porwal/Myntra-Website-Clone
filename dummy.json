@@ -6,7 +6,7 @@
       "realPrice": "296",
       "offprice": "1099",
       "description": "Men Beige & Black Typography Printed Sustainable T-shirt",
-      "Percantage": "73% OFF",
+      "Percantage": 73,
       "category": "Tshirt",
       "id": 1
     },
@@ -16,7 +16,7 @@
       "realPrice": "399",
       "offprice": "699",
       "description": "Men Teal Blue Printed Pure Cotton T-shirt",
-      "Percantage": "Rs. 300 OFF",
+      "Percantage": 30,
       "category": "Tshirt",
       "id": 2
     },
@@ -26,7 +26,7 @@
       "realPrice": "766",
       "offprice": "1299",
       "description": "Men Black Polo Collar T-shirt",
-      "Percantage": "41% OFF",
+      "Percantage": 41,
       "category": "Tshirt",
       "id": 3
     },
@@ -36,7 +36,7 @@
       "realPrice": "399",
       "offprice": "0",
       "description": "HM Men White Solid Cotton Pure Cotton T-shirt Regular Fit",
-      "Percantage": "0%",
+      "Percantage": 10,
       "category": "Tshirt",
       "id": 4
     },
@@ -46,7 +46,7 @@
       "realPrice": "461",
       "offprice": "1099",
       "description": "Men Teal Green Slim Fit Tropical Printed Pure Cotton T-shirt",
-      "Percantage": "58% OFF",
+      "Percantage": 58,
       "category": "Tshirt",
       "id": 5
     },
@@ -56,7 +56,7 @@
       "realPrice": "314",
       "offprice": "699",
       "description": "Men Yellow Printed Cotton Pure Cotton T-shirt",
-      "Percantage": "55% OFF",
+      "Percantage": 55,
       "category": "Tshirt",
       "id": 6
     },
@@ -66,7 +66,7 @@
       "realPrice": "467",
       "offprice": "1299",
       "description": "Men Mint Green Round Neck Drop-Shoulder Sleeves Cotton Loose T-shirt",
-      "Percantage": "64% OFF",
+      "Percantage": 64,
       "category": "Tshirt",
       "id": 7
     },
@@ -76,7 +76,7 @@
       "realPrice": "599",
       "offprice": "1099",
       "description": "Men Purple Boxy Fit Printed Round Neck Pure Cotton T-shirt",
-      "Percantage": "Rs. 500 OFF",
+      "Percantage": 49,
       "category": "Tshirt",
       "id": 8
     },
@@ -86,7 +86,7 @@
       "realPrice": "179",
       "offprice": "599",
       "description": "The Lifestyle Co. Men White Raw Edge Round Neck T-shirt with Contrast Pocket",
-      "Percantage": "70% OFF",
+      "Percantage": 70,
       "category": "Tshirt",
       "id": 9
     },
@@ -96,7 +96,7 @@
       "realPrice": "857",
       "offprice": "2765",
       "description": "Men Black Solid High Neck T-shirt",
-      "Percantage": "69% OFF",
+      "Percantage": 69,
       "category": "Tshirt",
       "id": 10
     },
@@ -106,7 +106,7 @@
       "realPrice": "391",
       "offprice": "1399",
       "description": "Men White Graphic Printed Cotton T-shirt",
-      "Percantage": "72% OFF",
+      "Percantage": 72,
       "category": "Tshirt",
       "id": 11
     },
@@ -116,7 +116,7 @@
       "realPrice": "399",
       "offprice": "799",
       "description": "Men Grey Melange Longline T-shirt with Raw Edges",
-      "Percantage": "Rs. 400 OFF",
+      "Percantage": 39,
       "category": "Tshirt",
       "id": 12
     },
@@ -126,7 +126,7 @@
       "realPrice": "475",
       "offprice": "1399",
       "description": "Men Black Typography Printed Pure Cotton Loose Oversized T-shirt",
-      "Percantage": "66% OFF",
+      "Percantage": 66,
       "category": "Tshirt",
       "id": 13
     },
@@ -136,7 +136,7 @@
       "realPrice": "1199",
       "offprice": "1499",
       "description": "Men Teal Blue Striped Slim Fit Polo Collar Pure Cotton T-shirt",
-      "Percantage": "Rs. 300 OFF",
+      "Percantage": 28,
       "category": "Tshirt",
       "id": 14
     },
@@ -146,7 +146,7 @@
       "realPrice": "766",
       "offprice": "1299",
       "description": "Men Brown Polo Collar T-shirt",
-      "Percantage": "41% OFF",
+      "Percantage": 41,
       "category": "Tshirt",
       "id": 15
     },
@@ -156,7 +156,7 @@
       "realPrice": "549",
       "offprice": "0",
       "description": "Men Colourblocked Boxy T-shirt",
-      "Percantage": "0%",
+      "Percantage": 18,
       "category": "Tshirt",
       "id": 16
     },
@@ -166,7 +166,7 @@
       "realPrice": "599",
       "offprice": "1299",
       "description": "Men Green Black Colourblocked Polo Collar Pure Cotton T-shirt",
-      "Percantage": "Rs. 700 OFF",
+      "Percantage": 51,
       "category": "Tshirt",
       "id": 17
     },
@@ -176,7 +176,7 @@
       "realPrice": "1199",
       "offprice": "1599",
       "description": "Men White & Blue Printed Polo Collar Pure Cotton T-shirt",
-      "Percantage": "Rs. 400 OFF",
+      "Percantage": 28,
       "category": "Tshirt",
       "id": 18
     },
@@ -186,7 +186,7 @@
       "realPrice": "404",
       "offprice": "899",
       "description": "Men Maroon Printed Cotton Pure Cotton T-shirt",
-      "Percantage": "55% OFF",
+      "Percantage": 55,
       "category": "Tshirt",
       "id": 19
     },
@@ -196,7 +196,7 @@
       "realPrice": "2799",
       "offprice": "3999",
       "description": "Men Black Polo Collar Slim Fit Solid T-shirt with Brand Logo Detail",
-      "Percantage": "30% OFF",
+      "Percantage": 30,
       "category": "Tshirt",
       "id": 20
     },
@@ -206,7 +206,7 @@
       "realPrice": "493",
       "offprice": "1049",
       "description": "Men Green & White Slim Fit Printed Casual Shirt",
-      "Percantage": "53% OFF",
+      "Percantage": 58,
       "category": "Casual Shirts",
       "id": 21
     },
@@ -216,7 +216,7 @@
       "realPrice": "626",
       "offprice": "1649",
       "description": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-      "Percantage": "62% OFF",
+      "Percantage": 62,
       "category": "Casual Shirts",
       "id": 22
     },
@@ -226,7 +226,7 @@
       "realPrice": "599",
       "offprice": "999",
       "description": "Men Black Pure Cotton Sustainable Casual Shirt",
-      "Percantage": "40% OFF",
+      "Percantage": 38,
       "category": "Casual Shirts",
       "id": 23
     },
@@ -236,7 +236,7 @@
       "realPrice": "399",
       "offprice": "1899",
       "description": "Men Black Slim Fit Casual Shirt",
-      "Percantage": "Rs. 1250 OFF",
+      "Percantage": 12,
       "category": "Casual Shirts",
       "id": 24
     },
@@ -246,7 +246,7 @@
       "realPrice": "699",
       "offprice": "1699",
       "description": "Men Pink Slim Fit Casual Shirt",
-      "Percantage": "Rs. 1150 OFF",
+      "Percantage": 18,
       "category": "Casual Shirts",
       "id": 25
     },
@@ -256,7 +256,7 @@
       "realPrice": "4599",
       "offprice": "0",
       "description": "Men Grey Slim Fit Windowpane Checks Casual Shirt",
-      "Percantage": "0%",
+      "Percantage": 45,
       "category": "Casual Shirts",
       "id": 26
     },
@@ -266,7 +266,7 @@
       "realPrice": "899",
       "offprice": "1499",
       "description": "Men Blue Printed Casual Sustainable Shirt",
-      "Percantage": "54% OFF",
+      "Percantage": 54,
       "category": "Casual Shirts",
       "id": 27
     },
@@ -276,7 +276,7 @@
       "realPrice": "1372",
       "offprice": "2495",
       "description": "Men Purple Slim Fit Casual Shirt",
-      "Percantage": "45% OFF",
+      "Percantage": 37,
       "category": "Casual Shirts",
       "id": 28
     },
@@ -286,7 +286,7 @@
       "realPrice": "749",
       "offprice": "2499",
       "description": "Men Blue Slim Fit Windowpane Checked Casual Shirt",
-      "Percantage": "Rs. 1750 OFF",
+      "Percantage": 16,
       "category": "Casual Shirts",
       "id": 29
     },
@@ -296,7 +296,7 @@
       "realPrice": "629",
       "offprice": "1749",
       "description": "Men White & Blue Slim Fit Checked Casual Shirt",
-      "Percantage": "64% OFF",
+      "Percantage": 64,
       "category": "Casual Shirts",
       "id": 30
     },
@@ -306,7 +306,7 @@
       "realPrice": "759",
       "offprice": "1899",
       "description": "Men Green & Navy Blue Checked Casual Sustainable Shirt",
-      "Percantage": "60% OFF",
+      "Percantage": 49,
       "category": "Casual Shirts",
       "id": 31
     },
@@ -316,7 +316,7 @@
       "realPrice": "4999",
       "offprice": "0",
       "description": "Men Pure Linen Casual Shirt",
-      "Percantage": "0%",
+      "Percantage": 12,
       "category": "Casual Shirts",
       "id": 32
     },
@@ -326,7 +326,7 @@
       "realPrice": "794",
       "offprice": "1499",
       "description": "Men White & Blue Striped Casual Shirt",
-      "Percantage": "47% OFF",
+      "Percantage": 47,
       "category": "Casual Shirts",
       "id": 33
     },
@@ -336,7 +336,7 @@
       "realPrice": "899",
       "offprice": "1849",
       "description": "Men Olive Green Slim Fit Casual Shirt",
-      "Percantage": "Rs. 1150 OFF",
+      "Percantage": 11,
       "category": "Casual Shirts",
       "id": 34
     },
@@ -346,7 +346,7 @@
       "realPrice": "849",
       "offprice": "849",
       "description": "Men Blue Solid Oxford Shirt with Half Placket",
-      "Percantage": "50% OFF",
+      "Percantage": 62,
       "category": "Casual Shirts",
       "id": 35
     },
@@ -356,7 +356,7 @@
       "realPrice": "587",
       "offprice": "1399",
       "description": "Men White Slim Fit Casual Shirt",
-      "Percantage": "58% OFF",
+      "Percantage": 88,
       "category": "Casual Shirts",
       "id": 36
     },
@@ -366,7 +366,7 @@
       "realPrice": "986",
       "offprice": "2099",
       "description": "Men Blue & White Slim Fit Striped Casual Shirt",
-      "Percantage": "53% OFF",
+      "Percantage": 53,
       "category": "Casual Shirts",
       "id": 37
     },
@@ -376,7 +376,7 @@
       "realPrice": "827",
       "offprice": "1799",
       "description": "Men Blue Slim Fit Faded Casual Denim Sustainable Shirt",
-      "Percantage": "54% OFF",
+      "Percantage": 79,
       "category": "Casual Shirts",
       "id": 38
     },
@@ -386,7 +386,7 @@
       "realPrice": "559",
       "offprice": "1399",
       "description": "Men White Slim Fit Printed Casual Shirt",
-      "Percantage": "60% OFF",
+      "Percantage": 70,
       "category": "Casual Shirts",
       "id": 39
     },
@@ -396,7 +396,7 @@
       "realPrice": "899",
       "offprice": "1999",
       "description": "Men Maroon Pure Cotton Casual Shirt",
-      "Percantage": "Rs. 1100 OFF",
+      "Percantage": 75,
       "category": "Casual Shirts",
       "id": 40
     },
@@ -406,7 +406,7 @@
       "realPrice": "1439",
       "offprice": "2399",
       "description": "Men White Solid Pure Cotton Classic Formal Shirt",
-      "Percantage": "40% OFF",
+      "Percantage": 15,
       "category": "Formal Shirts",
       "id": 41
     },
@@ -416,7 +416,7 @@
       "realPrice": "1049",
       "offprice": "2499",
       "description": "Men White Pure Cotton Slim Fit Formal Shirt",
-      "Percantage": "58% OFF",
+      "Percantage": 25,
       "category": "Formal Shirts",
       "id": 42
     },
@@ -426,7 +426,7 @@
       "realPrice": "1559",
       "offprice": "2599",
       "description": "Men Pure Cotton Slim Fit Textured Formal Shirt",
-      "Percantage": "40% OFF",
+      "Percantage": 35,
       "category": "Formal Shirts",
       "id": 43
     },
@@ -436,7 +436,7 @@
       "realPrice": "599",
       "offprice": "995",
       "description": "Men Black Slim Fit Formal Shirt",
-      "Percantage": "Rs. 396 OFF",
+      "Percantage": 45,
       "category": "Formal Shirts",
       "id": 44
     },
@@ -446,7 +446,7 @@
       "realPrice": "2099",
       "offprice": "3499",
       "description": "Men Slim Fit Printed Formal Cotton Shirt",
-      "Percantage": "40% OFF",
+      "Percantage": 55,
       "category": "Formal Shirts",
       "id": 45
     },
@@ -456,7 +456,7 @@
       "realPrice": "1379",
       "offprice": "2299",
       "description": "Men Green Self Designed Slim Fit Formal Shirt",
-      "Percantage": "40 % OFF",
+      "Percantage": 65,
       "category": "Formal Shirts",
       "id": 46
     },
@@ -466,7 +466,7 @@
       "realPrice": "1197",
       "offprice": "2395",
       "description": "Men Blue Pure Cotton Woven Design Slim Fit Formal Shirt",
-      "Percantage": "50% OFF",
+      "Percantage": 75,
       "category": "Formal Shirts",
       "id": 47
     },
@@ -476,7 +476,7 @@
       "realPrice": "999",
       "offprice": "1999",
       "description": "Men Slim Fit Striped Pure Cotton Formal Shirt",
-      "Percantage": "50% OFF",
+      "Percantage": 85,
       "category": "Formal Shirts",
       "id": 48
     },
@@ -486,7 +486,7 @@
       "realPrice": "1379",
       "offprice": "2299",
       "description": "Men Blue Self- designed Slim Fit Pure Cotton Formal Shirt",
-      "Percantage": "40% OFF",
+      "Percantage": 20,
       "category": "Formal Shirts",
       "id": 49
     },
@@ -496,7 +496,7 @@
       "realPrice": "3499",
       "offprice": "4999",
       "description": "Men Checked Pure Cotton Formal Shirt",
-      "Percantage": "30% OFF",
+      "Percantage": 30,
       "category": "Formal Shirts",
       "id": 50
     },
@@ -506,7 +506,7 @@
       "realPrice": "919",
       "offprice": "2299",
       "description": "Men Purple Slim Fit Opaque Formal Shirt",
-      "Percantage": "60% OFF",
+      "Percantage": 40,
       "category": "Formal Shirts",
       "id": 51
     },
@@ -516,7 +516,7 @@
       "realPrice": "1349",
       "offprice": "2999",
       "description": "Men Blue Custom Fit Tartan Checked Formal Shirt",
-      "Percantage": "55% OFF",
+      "Percantage": 50,
       "category": "Formal Shirts",
       "id": 52
     },
@@ -526,7 +526,7 @@
       "realPrice": "599",
       "offprice": "999",
       "description": "Men Grey Slim Fit Solid Formal Shirt",
-      "Percantage": "Rs. 400 OFF",
+      "Percantage": 60,
       "category": "Formal Shirts",
       "id": 53
     },
@@ -536,7 +536,7 @@
       "realPrice": "1499",
       "offprice": "2499",
       "description": "Men Striped Pure Cotton Formal Shirt",
-      "Percantage": "40% OFF",
+      "Percantage": 70,
       "category": "Formal Shirts",
       "id": 54
     },
@@ -546,7 +546,7 @@
       "realPrice": "1067",
       "offprice": "1199",
       "description": "Men White Formal Shirt",
-      "Percantage": "11% OFF",
+      "Percantage": 80,
       "category": "Formal Shirts",
       "id": 55
     },
@@ -556,7 +556,7 @@
       "realPrice": "2799",
       "offprice": "3999",
       "description": "Men Slim Fit Printed Formal Shirt",
-      "Percantage": "30% OFF",
+      "Percantage": 90,
       "category": "Formal Shirts",
       "id": 56
     },
@@ -566,7 +566,7 @@
       "realPrice": "599",
       "offprice": "999",
       "description": "Men Black Slim Fit Formal Shirt",
-      "Percantage": "Rs. 400 OFF",
+      "Percantage": 9,
       "category": "Formal Shirts",
       "id": 57
     },
@@ -576,7 +576,7 @@
       "realPrice": "1499",
       "offprice": "2499",
       "description": "Men Turquoise Blue Classic Fit Pinstripes Opaque Pure Cotton Formal Shirt",
-      "Percantage": "40% OFF",
+      "Percantage": 19,
       "category": "Formal Shirts",
       "id": 58
     },
@@ -586,7 +586,7 @@
       "realPrice": "1899",
       "offprice": "0",
       "description": "Men Purple Slim Fit Formal Shirt",
-      "Percantage": "0%",
+      "Percantage": 29,
       "category": "Formal Shirts",
       "id": 59
     },
@@ -596,7 +596,7 @@
       "realPrice": "599",
       "offprice": "599",
       "description": "Men White Slim Fit Formal Shirt",
-      "Percantage": "Rs. 400 OFF",
+      "Percantage": 39,
       "category": "Formal Shirts",
       "id": 60
     },
@@ -606,7 +606,7 @@
       "realPrice": "799",
       "offprice": "0",
       "description": "Men Relaxed Fit Sweatshirt",
-      "Percantage": "0%",
+      "Percantage": 49,
       "category": "Sweatshirts",
       "id": 61
     },
@@ -616,7 +616,7 @@
       "realPrice": "647",
       "offprice": "1799",
       "description": "Men Rose Solid Hooded Sweatshirt",
-      "Percantage": "64% OFF",
+      "Percantage": 59,
       "category": "Sweatshirts",
       "id": 62
     },
@@ -626,7 +626,7 @@
       "realPrice": "664",
       "offprice": "1899",
       "description": "Men Black Solid Hooded Sweatshirt",
-      "Percantage": "65% OFF",
+      "Percantage": 69,
       "category": "Sweatshirts",
       "id": 63
     },
@@ -636,7 +636,7 @@
       "realPrice": "1499",
       "offprice": "0",
       "description": "Men Black Relaxed Fit Hoodie",
-      "Percantage": "0%",
+      "Percantage": 79,
       "category": "Sweatshirts",
       "id": 64
     },
@@ -646,7 +646,7 @@
       "realPrice": "647",
       "offprice": "1799",
       "description": "Men Olive Green Solid Hooded Sweatshirt",
-      "Percantage": "64% OFF",
+      "Percantage": 89,
       "category": "Sweatshirts",
       "id": 65
     },
@@ -656,7 +656,7 @@
       "realPrice": "799",
       "offprice": "0",
       "description": "Men Black Relaxed Fit Sweatshirt",
-      "Percantage": "0%",
+      "Percantage": 12,
       "category": "Sweatshirts",
       "id": 66
     },
@@ -666,7 +666,7 @@
       "realPrice": "979",
       "offprice": "1999",
       "description": "Men White Hooded Knitted Sweatshirt",
-      "Percantage": "51% OFF",
+      "Percantage": 22,
       "category": "Sweatshirts",
       "id": 67
     },
@@ -676,7 +676,7 @@
       "realPrice": "1499",
       "offprice": "0",
       "description": "Men Relaxed Fit Hoodie",
-      "Percantage": "0%",
+      "Percantage": 33,
       "category": "Sweatshirts",
       "id": 68
     },
@@ -686,7 +686,7 @@
       "realPrice": "1349",
       "offprice": "2999",
       "description": "Men Maroon Solid Hooded Sweatshirt",
-      "Percantage": "55% OFF",
+      "Percantage": 44,
       "category": "Sweatshirts",
       "id": 69
     },
@@ -696,7 +696,7 @@
       "realPrice": "538",
       "offprice": "2449",
       "description": "Men Navy Blue Solid Hooded Sweatshirt",
-      "Percantage": "78% OFF",
+      "Percantage": 55,
       "category": "Sweatshirts",
       "id": 70
     },
@@ -706,7 +706,7 @@
       "realPrice": "1499",
       "offprice": "0",
       "description": "Men White Regular Fit Ribbed Sweatshirt",
-      "Percantage": "0%",
+      "Percantage": 66,
       "category": "Sweatshirts",
       "id": 71
     },
@@ -716,7 +716,7 @@
       "realPrice": "879",
       "offprice": "2199",
       "description": "Men Sea Green Solid Sweatshirt",
-      "Percantage": "60% OFF",
+      "Percantage": 77,
       "category": "Sweatshirts",
       "id": 72
     },
@@ -726,7 +726,7 @@
       "realPrice": "1379",
       "offprice": "2299",
       "description": "Men Relaxed Fit Hoodie",
-      "Percantage": "40% OFF",
+      "Percantage": 88,
       "category": "Sweatshirts",
       "id": 73
     },
@@ -736,7 +736,7 @@
       "realPrice": "1124",
       "offprice": "2499",
       "description": "Men Blue Printed Sweatshirt",
-      "Percantage": "55% OFF",
+      "Percantage": 11,
       "category": "Sweatshirts",
       "id": 74
     },
@@ -746,7 +746,7 @@
       "realPrice": "1614",
       "offprice": "1899",
       "description": "Men Grey Cotton Hooded Sweatshirt",
-      "Percantage": "15% OFF",
+      "Percantage": 16,
       "category": "Sweatshirts",
       "id": 75
     },
@@ -756,7 +756,7 @@
       "realPrice": "799",
       "offprice": "0",
       "description": "Men Grey Relaxed Fit Sweatshirt",
-      "Percantage": "0%",
+      "Percantage": 42,
       "category": "Sweatshirts",
       "id": 76
     },
@@ -766,7 +766,7 @@
       "realPrice": "1299",
       "offprice": "2499",
       "description": "Men Navy Blue Solid Hooded Sweatshirt",
-      "Percantage": "48% OFF",
+      "Percantage": 48,
       "category": "Sweatshirts",
       "id": 77
     },
@@ -776,7 +776,7 @@
       "realPrice": "1884",
       "offprice": "2899",
       "description": "Men Pink Printed Cotton Sweatshirt",
-      "Percantage": "35% OFF",
+      "Percantage": 35,
       "category": "Sweatshirts",
       "id": 78
     },
@@ -786,7 +786,7 @@
       "realPrice": "2399",
       "offprice": "2999",
       "description": "Men Black Essentials Fleece Solid Hooded Sweatshirt",
-      "Percantage": "20% OFF",
+      "Percantage": 20,
       "category": "Sweatshirts",
       "id": 79
     },
@@ -796,7 +796,7 @@
       "realPrice": "629",
       "offprice": "1799",
       "description": "Men Black Printed Sweatshirt",
-      "Percantage": "65% OFF",
+      "Percantage": 48,
       "category": "Sweatshirts",
       "id": 80
     },
@@ -806,7 +806,7 @@
       "realPrice": "1349",
       "offprice": "2999",
       "description": "Men White Clarkin Sneakers",
-      "Percantage": "55% OFF",
+      "Percantage": 55,
       "category": "Shoes",
       "id": 81
     },
@@ -816,7 +816,7 @@
       "realPrice": "2699",
       "offprice": "4499",
       "description": "Men Cream-Coloured and Orange Colourblocked Sneakers",
-      "Percantage": "40% OFF",
+      "Percantage": 40,
       "category": "Shoes",
       "id": 82
     },
@@ -826,7 +826,7 @@
       "realPrice": "696",
       "offprice": "1990",
       "description": "Men White Sneakers",
-      "Percantage": "65% OFF",
+      "Percantage": 65,
       "category": "Shoes",
       "id": 83
     },
@@ -836,7 +836,7 @@
       "realPrice": "1649",
       "offprice": "3299",
       "description": "Men Grey High-Top Sneakers",
-      "Percantage": "50% OFF",
+      "Percantage": 50,
       "category": "Shoes",
       "id": 84
     },
@@ -846,7 +846,7 @@
       "realPrice": "1349",
       "offprice": "2999",
       "description": "Men White & Grey Colourblocked Sneakers",
-      "Percantage": "55% OFF",
+      "Percantage": 55,
       "category": "Shoes",
       "id": 85
     },
@@ -856,7 +856,7 @@
       "realPrice": "696",
       "offprice": "1990",
       "description": "Men Grey Sneakers",
-      "Percantage": "65% OFF",
+      "Percantage": 65,
       "category": "Shoes",
       "id": 86
     },
@@ -866,7 +866,7 @@
       "realPrice": "872",
       "offprice": "3795",
       "description": "The Lifestyle Co Men White Sneakers",
-      "Percantage": "77% OFF",
+      "Percantage": 77,
       "category": "Shoes",
       "id": 87
     },
@@ -876,7 +876,7 @@
       "realPrice": "1499",
       "offprice": "2999",
       "description": "Men White & Black Colourblocked PANAL Sneakers",
-      "Percantage": "50% OFF",
+      "Percantage": 49,
       "category": "Shoes",
       "id": 88
     },
@@ -886,7 +886,7 @@
       "realPrice": "1224",
       "offprice": "3499",
       "description": "Men White Sneakers",
-      "Percantage": "65% OFF",
+      "Percantage": 65,
       "category": "Shoes",
       "id": 89
     },
@@ -896,7 +896,7 @@
       "realPrice": "1990",
       "offprice": "1990",
       "description": "696",
-      "Percantage": "65% OFF",
+      "Percantage": 75,
       "category": "Shoes",
       "id": 90
     },
@@ -906,7 +906,7 @@
       "realPrice": "1499",
       "offprice": "4999",
       "description": "Men Woven Design Sneakers",
-      "Percantage": "Rs. 3500 OFF",
+      "Percantage": 35,
       "category": "Shoes",
       "id": 91
     },
@@ -916,7 +916,7 @@
       "realPrice": "1499",
       "offprice": "2999",
       "description": "Men Off-White GAIMAN 2.O Sneakers",
-      "Percantage": "50% OFF",
+      "Percantage": 42,
       "category": "Shoes",
       "id": 92
     },
@@ -926,7 +926,7 @@
       "realPrice": "872",
       "offprice": "3795",
       "description": "Men Black Sneakers",
-      "Percantage": "77% OFF",
+      "Percantage": 77,
       "category": "Shoes",
       "id": 93
     },
@@ -936,7 +936,7 @@
       "realPrice": "597",
       "offprice": "1990",
       "description": "Men White Solid Sneakers",
-      "Percantage": "70% OFF",
+      "Percantage": 70,
       "category": "Shoes",
       "id": 94
     },
@@ -946,7 +946,7 @@
       "realPrice": "2804",
       "offprice": "5099",
       "description": "Men Grey & Black Colourblocked Chunky Sneakers",
-      "Percantage": "Rs. 2295 OFF",
+      "Percantage": 22,
       "category": "Shoes",
       "id": 95
     },
@@ -956,7 +956,7 @@
       "realPrice": "1699",
       "offprice": "0",
       "description": "Men White Sneakers",
-      "Percantage": "0%",
+      "Percantage": 28,
       "category": "Shoes",
       "id": 96
     },
@@ -966,7 +966,7 @@
       "realPrice": "696",
       "offprice": "1696",
       "description": "Men White Sneakers",
-      "Percantage": "65% OFF",
+      "Percantage": 29,
       "category": "Shoes",
       "id": 97
     },
@@ -976,7 +976,7 @@
       "realPrice": "2759",
       "offprice": "4599",
       "description": "Men White Sneakers",
-      "Percantage": "Rs. 1840 OFF",
+      "Percantage": 14,
       "category": "Shoes",
       "id": 98
     },
@@ -986,7 +986,7 @@
       "realPrice": "878",
       "offprice": "3995",
       "description": "The Lifestyle Co Men White Sneakers",
-      "Percantage": "78% OFF",
+      "Percantage": 15,
       "category": "Shoes",
       "id": 99
     },
@@ -996,7 +996,7 @@
       "realPrice": "755",
       "offprice": "2699",
       "description": "Men White Colourblocked Sneakers",
-      "Percantage": "72% OFF",
+      "Percantage": 16,
       "category": "Shoes",
       "id": 100
     }
@@ -1008,7 +1008,7 @@
       "realPrice": "887",
       "offprice": "3699",
       "description": "Women Beige Floral Yoke Design Straight Kurta with Trousers & With Dupatta",
-      "Percantage": "Rs. 2812 OFF",
+      "Percantage": 28,
       "category": "Kurtis",
       "id": 101
     },
@@ -1018,7 +1018,7 @@
       "realPrice": "1325",
       "offprice": "5099",
       "description": "Women Black Ethnic Motifs Printed Kurta with Palazzos & With Dupatta",
-      "Percantage": "Rs. 3774 OFF",
+      "Percantage": 37,
       "category": "Kurtis",
       "id": 102
     },
@@ -1028,7 +1028,7 @@
       "realPrice": "449",
       "offprice": "2999",
       "description": "Women Off-White & Red Solid Kurta with Palazzos & Dupatta",
-      "Percantage": "Rs. 2550 OFF",
+      "Percantage": 38,
       "category": "Kurtis",
       "id": 103
     },
@@ -1038,7 +1038,7 @@
       "realPrice": "989",
       "offprice": "2999",
       "description": "Women Black Pure Cotton Kurta with Palazzos & With Dupatta",
-      "Percantage": "Rs. 2010 OFF",
+      "Percantage": 20,
       "category": "Kurtis",
       "id": 104
     },
@@ -1048,7 +1048,7 @@
       "realPrice": "874",
       "offprice": "3499",
       "description": "Women Pink Floral Printed Kurta with Trousers & With Dupatta",
-      "Percantage": "Rs. 2625 OFF",
+      "Percantage": 26,
       "category": "Kurtis",
       "id": 105
     },
@@ -1058,7 +1058,7 @@
       "realPrice": "8999",
       "offprice": "0",
       "description": "Women Striped Thread Work Handloom Georgette Kurta",
-      "Percantage": "0%",
+      "Percantage": 28,
       "category": "Kurtis",
       "id": 106
     },
@@ -1068,7 +1068,7 @@
       "realPrice": "399",
       "offprice": "999",
       "description": "Women Fuchsia Pink & White Printed Pure Cotton Straight Kurta",
-      "Percantage": "Rs. 600 OFF",
+      "Percantage": 50,
       "category": "Kurtis",
       "id": 107
     },
@@ -1078,7 +1078,7 @@
       "realPrice": "335",
       "offprice": "2099",
       "description": "Women Navy Printed A-Line Kurta",
-      "Percantage": "84% OFF",
+      "Percantage": 84,
       "category": "Kurtis",
       "id": 108
     },
@@ -1088,7 +1088,7 @@
       "realPrice": "887",
       "offprice": "3699",
       "description": "Women Green Embroidered Thread Work Kurta with Trousers & Dupatta",
-      "Percantage": "Rs. 2812 OFF",
+      "Percantage": 28,
       "category": "Kurtis",
       "id": 109
     },
@@ -1098,7 +1098,7 @@
       "realPrice": "5499",
       "offprice": "0",
       "description": "Women Ethnic Motifs Chikankari Embroidered Handloom Cotton Kurta",
-      "Percantage": "0%",
+      "Percantage": 31,
       "category": "Kurtis",
       "id": 110
     },
@@ -1108,7 +1108,7 @@
       "realPrice": "1519",
       "offprice": "3799",
       "description": "Women Olive Green Ethnic Motifs Yoke Design Kurta with Palazzos & With Dupatta",
-      "Percantage": "60% OFF",
+      "Percantage": 10,
       "category": "Kurtis",
       "id": 111
     },
@@ -1118,7 +1118,7 @@
       "realPrice": "1399",
       "offprice": "3499",
       "description": "Women Black Pure Cotton Yoke Design Panelled Kurta with Palazzos & Dupatta",
-      "Percantage": "Rs. 2100 OFF",
+      "Percantage": 12,
       "category": "Kurtis",
       "id": 112
     },
@@ -1128,7 +1128,7 @@
       "realPrice": "1399",
       "offprice": "4999",
       "description": "Women Mustard Yellow Yoke Design Mirror Work Cotton Kurta with Trousers & Dupatta",
-      "Percantage": "Rs. 3600 OFF",
+      "Percantage": 12,
       "category": "Kurtis",
       "id": 113
     },
@@ -1138,7 +1138,7 @@
       "realPrice": "1598",
       "offprice": "5999",
       "description": "Women Magenta Printed Kurta with Trousers & Dupatta",
-      "Percantage": "Rs. 4401 OFF",
+      "Percantage": 12,
       "category": "Kurtis",
       "id": 114
     },
@@ -1148,7 +1148,7 @@
       "realPrice": "1368",
       "offprice": "3699",
       "description": "Women Red Floral Printed Kurta With Trouser & Dupatta",
-      "Percantage": "Rs. 2331 OFF",
+      "Percantage": 23,
       "category": "Kurtis",
       "id": 115
     },
@@ -1158,7 +1158,7 @@
       "realPrice": "14850",
       "offprice": "16500",
       "description": "Embroidered Chikankari Silk Georgette Kurta with Sharara & Dupatta",
-      "Percantage": "10% OFF",
+      "Percantage": 24,
       "category": "Kurtis",
       "id": 116
     },
@@ -1168,7 +1168,7 @@
       "realPrice": "879",
       "offprice": "2199",
       "description": "Women Yellow & White Printed Kurta with Palazzos",
-      "Percantage": "60% OFF",
+      "Percantage": 22,
       "category": "Kurtis",
       "id": 117
     },
@@ -1178,7 +1178,7 @@
       "realPrice": "1439",
       "offprice": "3599",
       "description": "Women Navy Blue Pure Cotton Floral Print Kurta with Palazzos & Dupatta",
-      "Percantage": "Rs. 2160 OFF",
+      "Percantage": 22,
       "category": "Kurtis",
       "id": 118
     },
@@ -1188,7 +1188,7 @@
       "realPrice": "3999",
       "offprice": "7999",
       "description": "Women Peach-Coloured Floral Kurta with Trousers & Dupatta",
-      "Percantage": "Rs. 4000 OFF",
+      "Percantage": 22,
       "category": "Kurtis",
       "id": 119
     },
@@ -1198,7 +1198,7 @@
       "realPrice": "836",
       "offprice": "3635",
       "description": "Women Blue Floral Printed Kurta with Trousers & With Dupatta",
-      "Percantage": "Rs. 2799 OFF",
+      "Percantage": 22,
       "category": "Kurtis",
       "id": 120
     },
@@ -1208,7 +1208,7 @@
       "realPrice": "1065",
       "offprice": "2598",
       "description": "Gunmetal-Toned Striped Saree",
-      "Percantage": "(59% OFF",
+      "Percantage": 11,
       "category": "Sarees",
       "id": 121
     },
@@ -1218,7 +1218,7 @@
       "realPrice": "683",
       "offprice": "3596",
       "description": "Green & Gold-Toned Silk Blend Fusion Leheriya Saree",
-      "Percantage": "Rs. 2913 OFF",
+      "Percantage": 11,
       "category": "Sarees",
       "id": 122
     },
@@ -1228,7 +1228,7 @@
       "realPrice": "587",
       "offprice": "2099",
       "description": "Maroon & Gold Ethnic Motifs Zari Silk Blend Banarasi Saree",
-      "Percantage": "72% OFF",
+      "Percantage": 11,
       "category": "Sarees",
       "id": 123
     },
@@ -1238,7 +1238,7 @@
       "realPrice": "2149",
       "offprice": "4299",
       "description": "Magenta Ruffled Ready to Wear Saree",
-      "Percantage": "Rs. 2150 OFF",
+      "Percantage": 33,
       "category": "Sarees",
       "id": 124
     },
@@ -1248,7 +1248,7 @@
       "realPrice": "971",
       "offprice": "3599",
       "description": "Saree Mall Floral Saree",
-      "Percantage": "Rs. 2628 OFF",
+      "Percantage": 33,
       "category": "Sarees",
       "id": 125
     },
@@ -1258,7 +1258,7 @@
       "realPrice": "699",
       "offprice": "2099",
       "description": "Yellow Bandhani Saree",
-      "Percantage": "Rs. 1400 OFF",
+      "Percantage": 33,
       "category": "Sarees",
       "id": 126
     },
@@ -1268,7 +1268,7 @@
       "realPrice": "1049",
       "offprice": "3499",
       "description": "Mustard Yellow & Gold-Toned Checked Zari Pure Silk Kanjeevaram Saree",
-      "Percantage": "70% OFF",
+      "Percantage": 33,
       "category": "Sarees",
       "id": 127
     },
@@ -1278,7 +1278,7 @@
       "realPrice": "579",
       "offprice": "1997",
       "description": "Black & Green Ethnic Motifs Fusion Saree",
-      "Percantage": "71% OFF",
+      "Percantage": 33,
       "category": "Sarees",
       "id": 128
     },
@@ -1288,7 +1288,7 @@
       "realPrice": "1199",
       "offprice": "5999",
       "description": "Zari Pure Silk Banarasi Saree",
-      "Percantage": "Rs. 4800 OFF",
+      "Percantage": 44,
       "category": "Sarees",
       "id": 129
     },
@@ -1298,7 +1298,7 @@
       "realPrice": "1259",
       "offprice": "6999",
       "description": "Solid Saree with Embroidered border",
-      "Percantage": "Rs. 5740 OFF",
+      "Percantage": 44,
       "category": "Sarees",
       "id": 130
     },
@@ -1308,7 +1308,7 @@
       "realPrice": "1379",
       "offprice": "2999",
       "description": "Black Floral Embroidered Net Saree",
-      "Percantage": "54% OFF",
+      "Percantage": 44,
       "category": "Sarees",
       "id": 131
     },
@@ -1318,7 +1318,7 @@
       "realPrice": "1439",
       "offprice": "3999",
       "description": "Black Floral Gotta Patti Velvet Saree",
-      "Percantage": "64% OFF",
+      "Percantage": 44,
       "category": "Sarees",
       "id": 132
     },
@@ -1328,7 +1328,7 @@
       "realPrice": "2833",
       "offprice": "10899",
       "description": "Cream-Coloured & Red Floral Silk Blend Saree",
-      "Percantage": "Rs. 8066 OFF",
+      "Percantage": 55,
       "category": "Sarees",
       "id": 133
     },
@@ -1338,7 +1338,7 @@
       "realPrice": "549",
       "offprice": "2496",
       "description": "White & Gold-Toned Zari Saree",
-      "Percantage": "78% OFF",
+      "Percantage": 55,
       "category": "Sarees",
       "id": 134
     },
@@ -1348,7 +1348,7 @@
       "realPrice": "983",
       "offprice": "4099",
       "description": "Black Floral Linen Blend Banarasi Saree",
-      "Percantage": "Rs. 3116 OFF",
+      "Percantage": 55,
       "category": "Sarees",
       "id": 135
     },
@@ -1358,7 +1358,7 @@
       "realPrice": "2992",
       "offprice": "3990",
       "description": "Blue & Gold-Toned Embellished Beads and Stones Saree",
-      "Percantage": "25% OFF",
+      "Percantage": 55,
       "category": "Sarees",
       "id": 136
     },
@@ -1368,7 +1368,7 @@
       "realPrice": "999",
       "offprice": "2499",
       "description": "Woven Design Zari Pure Silk Kanjeevaram Saree",
-      "Percantage": "60% OFF",
+      "Percantage": 55,
       "category": "Sarees",
       "id": 137
     },
@@ -1378,7 +1378,7 @@
       "realPrice": "5747",
       "offprice": "6050",
       "description": "Zari Pure Silk Saree",
-      "Percantage": "5% OFF",
+      "Percantage": 55,
       "category": "Sarees",
       "id": 138
     },
@@ -1388,7 +1388,7 @@
       "realPrice": "1511",
       "offprice": "3599",
       "description": "Olive Green & Red Floral Printed Organza Saree With Sequinned Blouse piece",
-      "Percantage": "Rs. 2088 OFF",
+      "Percantage": 66,
       "category": "Sarees",
       "id": 139
     },
@@ -1398,7 +1398,7 @@
       "realPrice": "1100",
       "offprice": "5260",
       "description": "Yellow Silk Blend Woven Design Kanjeevaram Saree",
-      "Percantage": "Rs. 4160 OFF",
+      "Percantage": 66,
       "category": "Sarees",
       "id": 140
     },
@@ -1408,7 +1408,7 @@
       "realPrice": "279",
       "offprice": "878",
       "description": "Unisex Soft Light Moisturizing Non-Sticky Cream with Vitamin E & Jojoba Oil -300 ml",
-      "Percantage": "5% OFF",
+      "Percantage": 66,
       "category": "Skin",
       "id": 141
     },
@@ -1418,7 +1418,7 @@
       "realPrice": "533.00",
       "offprice": "878",
       "description": "Yellow Silk Blend Woven Design Kanjeevaram Saree",
-      "Percantage": "13% OFF",
+      "Percantage": 66,
       "category": "Skin",
       "id": 142
     },
@@ -1428,7 +1428,7 @@
       "realPrice": "1401.00",
       "offprice": "2973",
       "description": "Absolute Perfect Radiance Skin Lightening Face Wash - 50 g",
-      "Percantage": "14% OFF",
+      "Percantage": 77,
       "category": "Skin",
       "id": 143
     },
@@ -1438,7 +1438,7 @@
       "realPrice": "592.00",
       "offprice": "878",
       "description": "Women Advansed Deep Nourish Body Lotion with Pure Coconut Milk 400 ml",
-      "Percantage": "7% OFF",
+      "Percantage": 77,
       "category": "Skin",
       "id": 144
     },
@@ -1448,7 +1448,7 @@
       "realPrice": "531.00",
       "offprice": "878",
       "description": "Paris Glycolic Bright Skin Brightening Serum to Reduce Dark Spots - 15 ml",
-      "Percantage": "15% OFF",
+      "Percantage": 77,
       "category": "Skin",
       "id": 145
     },
@@ -1458,7 +1458,7 @@
       "realPrice": "592.00",
       "offprice": "878",
       "description": "SPF 50 PA++++ Multi Vitamin Sunscreen",
-      "Percantage": "3% OFF",
+      "Percantage": 77,
       "category": "Skin",
       "id": 146
     },
@@ -1468,7 +1468,7 @@
       "realPrice": "1401.00",
       "offprice": "2874",
       "description": "Vitamin C 10% Face Serum for Glowing Skin 30 ml",
-      "Percantage": "17% OFF",
+      "Percantage": 77,
       "category": "Skin",
       "id": 147
     },
@@ -1478,7 +1478,7 @@
       "realPrice": "386.00",
       "offprice": "978",
       "description": "Bio Morning Nectar Flawless Sustainable Skin Lotion 120ml",
-      "Percantage": "9% OFF",
+      "Percantage": 77,
       "category": "Skin",
       "id": 148
     },
@@ -1488,7 +1488,7 @@
       "realPrice": "678.00",
       "offprice": "878",
       "description": "Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E - 247 g",
-      "Percantage": "1% OFF",
+      "Percantage": 77,
       "category": "Skin",
       "id": 149
     },
@@ -1498,7 +1498,7 @@
       "realPrice": "834.00",
       "offprice": "1878",
       "description": "9to5 Vitamin C+ Facial Serum - 15ml",
-      "Percantage": "1% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 150
     },
@@ -1508,7 +1508,7 @@
       "realPrice": "210.00",
       "offprice": "878",
       "description": "Sustainable Whiteglow Skin Whitening Brightening SPF 25++ Gel Creme 60g",
-      "Percantage": "14% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 151
     },
@@ -1518,7 +1518,7 @@
       "realPrice": "234.00",
       "offprice": "878",
       "description": "British Rose Shower Gel 250ml",
-      "Percantage": "7% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 152
     },
@@ -1528,7 +1528,7 @@
       "realPrice": "678.00",
       "offprice": "1878",
       "description": "Super Light Hydra Essence Face Serum with Hyaluronic Acid & Vitamin E - 20ml",
-      "Percantage": "6% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 153
     },
@@ -1538,7 +1538,7 @@
       "realPrice": "654.00",
       "offprice": "2878",
       "description": "2% Salicylic Acid Face Wash With LHA 100 ml",
-      "Percantage": "3% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 154
     },
@@ -1548,7 +1548,7 @@
       "realPrice": "315.00",
       "offprice": "878",
       "description": "New York Set Of 2 Baby Lip Balms - Pink Lolita + Berry Crush",
-      "Percantage": "21% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 155
     },
@@ -1558,7 +1558,7 @@
       "realPrice": "456.00",
       "offprice": "878",
       "description": "Yellow Silk Blend Woven Design Kanjeevaram Saree",
-      "Percantage": "7% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 156
     },
@@ -1568,7 +1568,7 @@
       "realPrice": "845.00",
       "offprice": "1878",
       "description": "10% Niacinamide Face Serum with Zinc - 30 ml",
-      "Percantage": "21% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 157
     },
@@ -1578,7 +1578,7 @@
       "realPrice": "346.00",
       "offprice": "878",
       "description": "Kind To Skin Refreshing Facial Wash 150 ml",
-      "Percantage": "0% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 158
     },
@@ -1588,7 +1588,7 @@
       "realPrice": "456.00",
       "offprice": "878",
       "description": "Sustainable WhiteGlow Skin Tightening Brightening Gel Creme with SPF 25 40g",
-      "Percantage": "3% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 159
     },
@@ -1598,7 +1598,7 @@
       "realPrice": "345.00",
       "offprice": "878",
       "description": "Yellow Silk Blend Woven Design Kanjeevaram Saree",
-      "Percantage": "5% OFF",
+      "Percantage": 88,
       "category": "Skin",
       "id": 160
     }
@@ -1610,7 +1610,7 @@
       "realPrice": "478",
       "offprice": "949",
       "description": "Boys Pack Of 5 Graphic Printed Pure Cotton T-shirts",
-      "Percantage": "30% OFF",
+      "Percantage": 12,
       "category": "tshirts",
       "id": 161
     },
@@ -1620,7 +1620,7 @@
       "realPrice": "398",
       "offprice": "398",
       "description": "Boys Mustard Yellow Navy Blue Spiderman Printed Slim Fit Pure Cotton T-shirt",
-      "Percantage": "76% OFF",
+      "Percantage": 22,
       "category": "tshirts",
       "id": 162
     },
@@ -1630,7 +1630,7 @@
       "realPrice": "399",
       "offprice": "0",
       "description": "Boys Cotton T-shirt",
-      "Percantage": "0%",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 163
     },
@@ -1640,7 +1640,7 @@
       "realPrice": "593",
       "offprice": "1745",
       "description": "Unisex Pack of 5 Printed Pure Cotton T-shirts",
-      "Percantage": "66% OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 164
     },
@@ -1650,7 +1650,7 @@
       "realPrice": "149",
       "offprice": "599",
       "description": "Boys Maroon Pure Cotton Printed Round Neck Pure Cotton T-shirt",
-      "Percantage": "75% OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 165
     },
@@ -1660,7 +1660,7 @@
       "realPrice": "399",
       "offprice": "1664",
       "description": "Boys White Mickey Mouse Printed Cotton T-shirt",
-      "Percantage": "76% OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 166
     },
@@ -1670,7 +1670,7 @@
       "realPrice": "1599",
       "offprice": "2049",
       "description": "Boys Pack of 3 Mickey Mouse Donald Duck Goofy Printed T-shirts",
-      "Percantage": "74% OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 167
     },
@@ -1680,7 +1680,7 @@
       "realPrice": "599",
       "offprice": "999",
       "description": "Boys 2-Pack Cotton Jersey Tops",
-      "Percantage": "40% OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 168
     },
@@ -1690,7 +1690,7 @@
       "realPrice": "599",
       "offprice": "2997",
       "description": "Boys Pack Of 3 Navy Blue Printed Bio Finish Cotton T-shirt",
-      "Percantage": "Rs. 2398 OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 169
     },
@@ -1700,7 +1700,7 @@
       "realPrice": "679",
       "offprice": "3998",
       "description": "Boys Orange & Navy Blue Pack Of 2 Colourblocked T-shirt",
-      "Percantage": "Rs. 3319 OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 170
     },
@@ -1710,7 +1710,7 @@
       "realPrice": "699",
       "offprice": "999",
       "description": " Boys Maroon High Neck T-shirt",
-      "Percantage": "30% OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 171
     },
@@ -1720,7 +1720,7 @@
       "realPrice": "524",
       "offprice": "999",
       "description": "Boys Printed Pure Cotton T-shirt",
-      "Percantage": "Rs. 475 OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 172
     },
@@ -1730,7 +1730,7 @@
       "realPrice": "799",
       "offprice": "799",
       "description": "Boys Blue & White Colourblocked Cotton Polo Collar T-shirt",
-      "Percantage": "60% OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 173
     },
@@ -1740,7 +1740,7 @@
       "realPrice": "599",
       "offprice": "1199",
       "description": "HRX By Hrithik Roshan U-17 Lifestyle Boys Lemon Drop Bio-Wash Graphic Tshirts",
-      "Percantage": "50% OFF",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 174
     },
@@ -1750,7 +1750,7 @@
       "realPrice": "399",
       "offprice": "0",
       "description": "Kids Boys Cotton jersey top",
-      "Percantage": "0%",
+      "Percantage": 25,
       "category": "tshirts",
       "id": 175
     },
@@ -1760,7 +1760,7 @@
       "realPrice": "1499",
       "offprice": "0",
       "description": "Boys 3-Pack Printed T-Shirts",
-      "Percantage": "0%",
+      "Percantage": 45,
       "category": "tshirts",
       "id": 176
     },
@@ -1770,7 +1770,7 @@
       "realPrice": "399",
       "offprice": "899",
       "description": "Typography ",
-      "Percantage": "Rs. 500 OFF",
+      "Percantage": 45,
       "category": "tshirts",
       "id": 177
     },
@@ -1780,7 +1780,7 @@
       "realPrice": "1247",
       "offprice": "2495",
       "description": "Unisex Kids White Gem Band Croslite Clogs",
-      "Percantage": "50% OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 178
     },
@@ -1790,7 +1790,7 @@
       "realPrice": "1946",
       "offprice": "2995",
       "description": "Boys Yellow Printed Classic Minions Clogs",
-      "Percantage": "35% OFF",
+      "Percantage": 44,
       "category": "Footwear",
       "id": 179
     },
@@ -1800,7 +1800,7 @@
       "realPrice": "2580",
       "offprice": "3795",
       "description": "Kids Navy Blue Disney Mickey Lights Clogs",
-      "Percantage": "32% OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 180
     },
@@ -1810,7 +1810,7 @@
       "realPrice": "2097",
       "offprice": "3495",
       "description": "Kids Black Printed Classic Marvel Avengers Clogs",
-      "Percantage": "40 % OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 181
     },
@@ -1820,7 +1820,7 @@
       "realPrice": "1491",
       "offprice": "2295",
       "description": "Unisex Kids Blue Solid Croslite Clogs",
-      "Percantage": "35% OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 182
     },
@@ -1830,7 +1830,7 @@
       "realPrice": "1836",
       "offprice": "2295",
       "description": "Unisex Kids Pink Gem Band Croslite Clogs",
-      "Percantage": "20% OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 183
     },
@@ -1840,7 +1840,7 @@
       "realPrice": "2066",
       "offprice": "2995",
       "description": "Unisex Kids Blue Baby Shark Band Applique Croslite Clogs with Cut-Outs Detail",
-      "Percantage": "31% OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 184
     },
@@ -1850,7 +1850,7 @@
       "realPrice": "999",
       "offprice": "1995",
       "description": "Unisex Kids Blue Solid Croslite Clogs",
-      "Percantage": "Rs. 996 OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 185
     },
@@ -1860,7 +1860,7 @@
       "realPrice": "1296",
       "offprice": "1995",
       "description": "Kids Pink Solid Clogs",
-      "Percantage": "35% OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 186
     },
@@ -1870,7 +1870,7 @@
       "realPrice": "1797",
       "offprice": "2995",
       "description": "Kids Grey Printed Paw Patrol Patch Clogs",
-      "Percantage": "40 % OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 187
     },
@@ -1880,7 +1880,7 @@
       "realPrice": "1797",
       "offprice": "2995",
       "description": "Unisex Kids Ballerina Pink & Blue Paw Patrol Patch Applique Daily Croslite Clogs",
-      "Percantage": "40 % OFF",
+      "Percantage": 45,
       "category": "Footwear",
       "id": 188
     },
@@ -1890,7 +1890,7 @@
       "realPrice": "2397",
       "offprice": "3995",
       "description": "Unisex Kids Navy Blue Mickey & Friends Lights Applique Croslite Clogs with Cut-Outs",
-      "Percantage": "40 % OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 189
     },
@@ -1900,7 +1900,7 @@
       "realPrice": "1497",
       "offprice": "2495",
       "description": "Kids Navy Blue Bayaband Clogs",
-      "Percantage": "40 % OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 190
     },
@@ -1910,7 +1910,7 @@
       "realPrice": "749",
       "offprice": "999",
       "description": "Boys Black Rubber Clogs",
-      "Percantage": "25% OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 191
     },
@@ -1920,7 +1920,7 @@
       "realPrice": "1166",
       "offprice": "1795",
       "description": "Multicoloured ",
-      "Percantage": "35% OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 192
     },
@@ -1930,7 +1930,7 @@
       "realPrice": "1621",
       "offprice": "2495",
       "description": "Kids Pink Bayaband Solid Clogs",
-      "Percantage": "35% OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 193
     },
@@ -1940,7 +1940,7 @@
       "realPrice": "1220",
       "offprice": "1795",
       "description": "Kids Navy Blue & Red Printed Classic Solarized CgT Croslite Clogs",
-      "Percantage": "32% OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 194
     },
@@ -1950,7 +1950,7 @@
       "realPrice": "179",
       "offprice": "399",
       "description": "Boys Printed Thong Flip-Flops",
-      "Percantage": "55% OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 195
     },
@@ -1960,7 +1960,7 @@
       "realPrice": "399",
       "offprice": "999",
       "description": "Boys Blue & Black Striped Sliders",
-      "Percantage": "Rs. 600 OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 196
     },
@@ -1970,7 +1970,7 @@
       "realPrice": "499",
       "offprice": "0",
       "description": "Girls Silver-Toned & Pink Embellished Rubber Room Slippers",
-      "Percantage": "0%",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 197
     },
@@ -1980,7 +1980,7 @@
       "realPrice": "1797",
       "offprice": "2995",
       "description": "Kids Grey Printed Paw Patrol Patch Clogs",
-      "Percantage": "40 % OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 198
     },
@@ -1990,7 +1990,7 @@
       "realPrice": "2066",
       "offprice": "2995",
       "description": "Unisex Kids Blue Baby Shark Band Applique Croslite Clogs with Cut-Outs Detail",
-      "Percantage": "31% OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 199
     },
@@ -2000,7 +2000,7 @@
       "realPrice": "399",
       "offprice": "999",
       "description": "Boys Blue & Black Striped Sliders",
-      "Percantage": "Rs. 600 OFF",
+      "Percantage": 80,
       "category": "Footwear",
       "id": 200
     }
@@ -2012,7 +2012,7 @@
       "realPrice": "3015",
       "offprice": "3350",
       "description": "Charcoal Grey & Beige Abstract Bedside Runners",
-      "Percantage": "10% OFF",
+      "Percantage": 80,
       "category": "Home Furnishing",
       "id": 181
     },
@@ -2022,7 +2022,7 @@
       "realPrice": "959",
       "offprice": "1599",
       "description": "Grey Solid Cotton Anti-Skid Runner Mats",
-      "Percantage": "40% OFF",
+      "Percantage": 80,
       "category": "Home Furnishing",
       "id": 182
     },
@@ -2032,7 +2032,7 @@
       "realPrice": "599",
       "offprice": "599",
       "description": "Maroon Solid Runner",
-      "Percantage": "40% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 183
     },
@@ -2042,7 +2042,7 @@
       "realPrice": "1299",
       "offprice": "1999",
       "description": "Disney",
-      "Percantage": "35% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 184
     },
@@ -2052,7 +2052,7 @@
       "realPrice": "599",
       "offprice": "999",
       "description": "Blue Handloom Solid Runner",
-      "Percantage": "40% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 185
     },
@@ -2062,7 +2062,7 @@
       "realPrice": "1049",
       "offprice": "2099",
       "description": "Black & White Geometric Runner",
-      "Percantage": "50% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 186
     },
@@ -2072,7 +2072,7 @@
       "realPrice": "₹527",
       "offprice": "1599",
       "description": "Blue & Green Printed Rectangular Bed Runner",
-      "Percantage": "67% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 187
     },
@@ -2082,7 +2082,7 @@
       "realPrice": "999",
       "offprice": "1999",
       "description": "Purple & Pink Solid Anti-Skid Floor Runner",
-      "Percantage": "50% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 188
     },
@@ -2092,7 +2092,7 @@
       "realPrice": "999",
       "offprice": "1999",
       "description": "Grey & Yellow Colourblocked Anti-Skid Bed Runner",
-      "Percantage": "50% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 189
     },
@@ -2102,7 +2102,7 @@
       "realPrice": "959",
       "offprice": "1599",
       "description": "Blue Solid Cotton Kitchen Floor Runners",
-      "Percantage": "40% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 190
     },
@@ -2112,7 +2112,7 @@
       "realPrice": "599",
       "offprice": "599",
       "description": "Brown Handloom Solid Runner",
-      "Percantage": "40% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 191
     },
@@ -2122,7 +2122,7 @@
       "realPrice": "599",
       "offprice": "749",
       "description": "Turquoise Blue Printed Runners",
-      "Percantage": "20% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 192
     },
@@ -2132,7 +2132,7 @@
       "realPrice": "527",
       "offprice": "1599",
       "description": "Green & Grey Floral Printed Bed Runner",
-      "Percantage": "67% OFF",
+      "Percantage": 75,
       "category": "Home Furnishing",
       "id": 193
     },
@@ -2142,7 +2142,7 @@
       "realPrice": "3015",
       "offprice": "3350",
       "description": "Charcoal & Beige Geometric Runner",
-      "Percantage": "10% OFF",
+      "Percantage": 50,
       "category": "Home Furnishing",
       "id": 194
     },
@@ -2152,7 +2152,7 @@
       "realPrice": "640",
       "offprice": "1600",
       "description": "Set of 8 White & Yellow Printed Cotton Diwan Set",
-      "Percantage": "60% OFF",
+      "Percantage": 50,
       "category": "Home Furnishing",
       "id": 195
     },
@@ -2162,7 +2162,7 @@
       "realPrice": "899",
       "offprice": "2999",
       "description": "Grey King Size Cotton Terry Waterproof Mattress Protector",
-      "Percantage": "Rs. 2100 OFF",
+      "Percantage": 50,
       "category": "Home Furnishing",
       "id": 196
     },
@@ -2172,7 +2172,7 @@
       "realPrice": "1299",
       "offprice": "2599",
       "description": "Black 500 GSM Queen Mattress Topper",
-      "Percantage": "50% OFF",
+      "Percantage": 50,
       "category": "Home Furnishing",
       "id": 197
     },
@@ -2182,7 +2182,7 @@
       "realPrice": "1347",
       "offprice": "2995",
       "description": "White Solid Water-Resistant King Size Mattress Protector",
-      "Percantage": "55% OFF",
+      "Percantage": 50,
       "category": "Home Furnishing",
       "id": 198
     },
@@ -2192,7 +2192,7 @@
       "realPrice": "2449",
       "offprice": "2449",
       "description": "Grey Solid Pure Organic Bamboo Mattress Protector",
-      "Percantage": "30% OFF",
+      "Percantage": 50,
       "category": "Home Furnishing",
       "id": 199
     },
@@ -2202,7 +2202,7 @@
       "realPrice": "2000",
       "offprice": "3999",
       "description": "Navy Blue Quilted King Sze Mattress Protector",
-      "Percantage": "Rs. 1999 OFF",
+      "Percantage": 50,
       "category": "Home Furnishing",
       "id": 200
     },
@@ -2212,7 +2212,7 @@
       "realPrice": "2199",
       "offprice": "8500",
       "description": "Set Of 2 Round Base Metal Planters With Pot",
-      "Percantage": "Rs. 6301 OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 201
     },
@@ -2222,7 +2222,7 @@
       "realPrice": "524",
       "offprice": "1499",
       "description": "Set of 2 Pink & White Artificial Flower Bunches With Vase",
-      "Percantage": "65% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 202
     },
@@ -2232,7 +2232,7 @@
       "realPrice": "1620",
       "offprice": "2000",
       "description": "Set of 2 Green Artificial Areca Palm Plants without pot",
-      "Percantage": "19% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 203
     },
@@ -2242,7 +2242,7 @@
       "realPrice": "645",
       "offprice": "1500",
       "description": "Set of 6 White Artificial Cherry Blossom Flower Sticks without Vase",
-      "Percantage": "57% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 204
     },
@@ -2252,7 +2252,7 @@
       "realPrice": "3960",
       "offprice": "18000",
       "description": "Set Of 2 Solid Metal Planters With Stand",
-      "Percantage": "78% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 205
     },
@@ -2262,7 +2262,7 @@
       "realPrice": "524",
       "offprice": "1499",
       "description": "Set of 2 Pink & White Artificial Flower Bunches With Vase",
-      "Percantage": "65% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 206
     },
@@ -2272,7 +2272,7 @@
       "realPrice": "1620",
       "offprice": "2000",
       "description": "Set of 2 Green Artificial Areca Palm Plants without pot",
-      "Percantage": "19% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 207
     },
@@ -2282,7 +2282,7 @@
       "realPrice": "645",
       "offprice": "1500",
       "description": "Set of 6 White Artificial Cherry Blossom Flower Sticks without Vase",
-      "Percantage": "57% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 208
     },
@@ -2292,7 +2292,7 @@
       "realPrice": "499",
       "offprice": "0",
       "description": "Set Of 4 Green & White Decorative Bonsai Plants With Pots",
-      "Percantage": "0%",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 209
     },
@@ -2302,7 +2302,7 @@
       "realPrice": "439",
       "offprice": "2000",
       "description": "Set Of 2 Beige Macrame Plant Hangers Without Pot",
-      "Percantage": "Rs. 1561 OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 210
     },
@@ -2312,7 +2312,7 @@
       "realPrice": "1799",
       "offprice": "0",
       "description": "Black & Gold-Toned Solid Metal Planter With Stand",
-      "Percantage": "0%",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 211
     },
@@ -2322,7 +2322,7 @@
       "realPrice": "1500",
       "offprice": "2000",
       "description": "Green & Yellow Artificial Bamboo Bonsai Plant With Ceramic Pot",
-      "Percantage": "25% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 212
     },
@@ -2332,7 +2332,7 @@
       "realPrice": "1100",
       "offprice": "2000",
       "description": "Purple & Green Artificial Hanging Morning Glory Flower Plants with Basket",
-      "Percantage": "45% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 213
     },
@@ -2342,7 +2342,7 @@
       "realPrice": "594",
       "offprice": "1699",
       "description": "Red & Peach-Colour Artificial Rose Flower Plant With Mercury Vase",
-      "Percantage": "65% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 214
     },
@@ -2352,7 +2352,7 @@
       "realPrice": "436",
       "offprice": "1248",
       "description": "Set Of 3 Artificial Orchid Flower Sticks Without Vase",
-      "Percantage": "65% OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 215
     },
@@ -2362,7 +2362,7 @@
       "realPrice": "1399",
       "offprice": "0",
       "description": "Gold Solid Metal Conical Planter",
-      "Percantage": "0%",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 216
     },
@@ -2372,7 +2372,7 @@
       "realPrice": "599",
       "offprice": "699",
       "description": "Set Of 2 Beige Pampas Grass Artificial Flowers Plant",
-      "Percantage": "Rs. 100 OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 217
     },
@@ -2382,7 +2382,7 @@
       "realPrice": "1649",
       "offprice": "6500",
       "description": "Set Of 3 White & Brown Metal Planter Pots with Stands",
-      "Percantage": "Rs. 4851 OFF",
+      "Percantage": 50,
       "category": "Plants & planters ",
       "id": 218
     },
@@ -2392,7 +2392,7 @@
       "realPrice": "436",
       "offprice": "1248",
       "description": "Set of 3 Artificial Orchid Flower Sticks Without Vase",
-      "Percantage": "65% OFF",
+      "Percantage": 25,
       "category": "Plants & planters ",
       "id": 219
     },
@@ -2402,7 +2402,7 @@
       "realPrice": "3850",
       "offprice": "17500",
       "description": "Set Of 2 Metal Planters With Stand",
-      "Percantage": "78% OFF",
+      "Percantage": 25,
       "category": "Plants & planters ",
       "id": 220
     }
@@ -2414,7 +2414,7 @@
       "realPrice": "385",
       "offprice": "575",
       "description": "Ayurvedic Matte Lipstick Micro-Mini Trial Kit Set Of 16",
-      "Percantage": "33% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 221
     },
@@ -2424,7 +2424,7 @@
       "realPrice": "236",
       "offprice": "329",
       "description": "New York Color Sensational Creamy Matte Lipstick - Touch of Spice 660",
-      "Percantage": "28% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 222
     },
@@ -2434,7 +2434,7 @@
       "realPrice": "330",
       "offprice": "550",
       "description": "9 to 5 Primer + Matte Lipstick - Rosy Sunday MP8",
-      "Percantage": "40% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 223
     },
@@ -2444,7 +2444,7 @@
       "realPrice": "369",
       "offprice": "499",
       "description": "RENEE Madness pH Stick 3gm | Black Lipstick Pink Pay Off",
-      "Percantage": "26% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 224
     },
@@ -2454,7 +2454,7 @@
       "realPrice": "454",
       "offprice": "699",
       "description": "New York Super Stay Matte Ink Liquid Lipstick 5 ml - Ambitious 220",
-      "Percantage": "35% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 225
     },
@@ -2464,7 +2464,7 @@
       "realPrice": "419",
       "offprice": "599",
       "description": "New York Color Sensational Ultimattes Lipstick- 599 More Mauve- 1.7g",
-      "Percantage": "30% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 226
     },
@@ -2474,7 +2474,7 @@
       "realPrice": "1398",
       "offprice": "0",
       "description": "Set of 2 New York Super Stay Matte Ink Liquid Lipsticks - Transformer & Artist",
-      "Percantage": "0%",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 227
     },
@@ -2484,7 +2484,7 @@
       "realPrice": "397",
       "offprice": "796",
       "description": "Set Of 4 Creme Matte Weightless Long-Lasting Lipstick - 3.5g Each",
-      "Percantage": "Rs. 399 OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 228
     },
@@ -2494,7 +2494,7 @@
       "realPrice": "205",
       "offprice": "285",
       "description": "Lip and Cheek Tint Cherry 4gm",
-      "Percantage": "28% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 229
     },
@@ -2504,7 +2504,7 @@
       "realPrice": "1250",
       "offprice": "0",
       "description": "Mini Matte Lipstick 1.8g - Whirl",
-      "Percantage": "0%",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 230
     },
@@ -2514,7 +2514,7 @@
       "realPrice": "454",
       "offprice": "699",
       "description": "New York Super Stay Matte Ink Liquid Lipstick 5 ml - Ruler 80",
-      "Percantage": "35% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 231
     },
@@ -2524,7 +2524,7 @@
       "realPrice": "435",
       "offprice": "435",
       "description": "Set of 4 Lightweight & Waterproof True Matte Liquid Lipsticks 12 ml Each- Nude 09 - Pink 12 - Wine 13 - Maroon 14",
-      "Percantage": "Rs. 361 OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 232
     },
@@ -2534,7 +2534,7 @@
       "realPrice": "432",
       "offprice": "769",
       "description": "Set Of 4 Lightweight & Waterproof True Premium Matte Lipsticks - 04, 07, 08, 15",
-      "Percantage": "Rs. 337 OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 233
     },
@@ -2544,7 +2544,7 @@
       "realPrice": "319",
       "offprice": "399",
       "description": "Comfy Matte 10HR Long Stay Liquid Lip Color with Almond Oil 3ml - Note To Self 07",
-      "Percantage": "20% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 234
     },
@@ -2554,7 +2554,7 @@
       "realPrice": "224",
       "offprice": "224",
       "description": "Weightless Matte Finish Hydrating Lipstick with Almond Oil - Hot Plum 24",
-      "Percantage": "25% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 235
     },
@@ -2564,7 +2564,7 @@
       "realPrice": "519",
       "offprice": "799",
       "description": "Feather Light 10hr Stay Ultime Pro HD Intense Matte Lips + Primer Lipstick 1.4g - Magnetic 02",
-      "Percantage": "35% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 236
     },
@@ -2574,7 +2574,7 @@
       "realPrice": "Mettle Satin Water-Resistant Lipstick 2.8 g - Gabriella 07",
       "offprice": "999",
       "description": "Mettle Satin Water-Resistant Lipstick 2.8 g - Gabriella 07",
-      "Percantage": "15% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 237
     },
@@ -2584,7 +2584,7 @@
       "realPrice": "Moisture Matte Longstay Lipstick - Cinnamon Nude 04",
       "offprice": "499",
       "description": "Moisture Matte Longstay Lipstick - Cinnamon Nude 04",
-      "Percantage": "8% OFF",
+      "Percantage": 25,
       "category": "Lipstick",
       "id": 238
     },
@@ -2594,7 +2594,7 @@
       "realPrice": "1950",
       "offprice": "0",
       "description": "Retro Matte Lipstick 3g - Ruby Woo",
-      "Percantage": "0%",
+      "Percantage": 15,
       "category": "Lipstick",
       "id": 239
     },
@@ -2604,7 +2604,7 @@
       "realPrice": "190",
       "offprice": "190",
       "description": "New York ColorSensational Creamy Matte Lipstick - Dried Rose 807",
-      "Percantage": "42% OFF",
+      "Percantage": 15,
       "category": "Lipstick",
       "id": 240
     },
@@ -2614,7 +2614,7 @@
       "realPrice": "695",
       "offprice": "0",
       "description": "Serie Expert Absolut Repair Shampoo - 300 ml",
-      "Percantage": "0%",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 241
     },
@@ -2624,7 +2624,7 @@
       "realPrice": "156",
       "offprice": "209",
       "description": "Paris Hyaluron Moisture 72H Moisture Filling Shampoo with Hyaluronic Acid - 180 ml",
-      "Percantage": "25% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 242
     },
@@ -2634,7 +2634,7 @@
       "realPrice": "204",
       "offprice": "204",
       "description": "Set Of 2 Hair Fruits Long & Silky Conditioning Shampoo with Apricot & Peach-340ml each",
-      "Percantage": "40 % OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 243
     },
@@ -2644,7 +2644,7 @@
       "realPrice": "179",
       "offprice": "249",
       "description": "Paris Hyaluron Moisture 72H Moisture Sealing Conditioner for Dehydrated Hair- 180ml",
-      "Percantage": "28% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 244
     },
@@ -2654,7 +2654,7 @@
       "realPrice": "950",
       "offprice": "0",
       "description": "Xtenso Care Sulfate-free Shampoo - 250 ml",
-      "Percantage": "0%",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 245
     },
@@ -2664,7 +2664,7 @@
       "realPrice": "59",
       "offprice": "79",
       "description": "Total Repair 5 Shampoo 82.5 ml",
-      "Percantage": "25% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 246
     },
@@ -2674,7 +2674,7 @@
       "realPrice": "Ayurvedic Volumizing Conditioning Shampoo 200 ml",
       "offprice": "0",
       "description": "Ayurvedic Volumizing Conditioning Shampoo 200 ml",
-      "Percantage": "0%",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 247
     },
@@ -2684,7 +2684,7 @@
       "realPrice": "161",
       "offprice": "190",
       "description": "Keratin Smooth Shampoo with Argan Oil - 185ml",
-      "Percantage": "15% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 248
     },
@@ -2694,7 +2694,7 @@
       "realPrice": "Ayurvedic Coconut Conditioner 200 ml",
       "offprice": "0",
       "description": "Ayurvedic Coconut Conditioner 200 ml",
-      "Percantage": "0%",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 249
     },
@@ -2704,7 +2704,7 @@
       "realPrice": "850",
       "offprice": "0",
       "description": "Strong & Healthy Shampoo, With Kunkudukai and Badam- 1L",
-      "Percantage": "0%",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 250
     },
@@ -2714,7 +2714,7 @@
       "realPrice": "146",
       "offprice": "209",
       "description": "Paris Women Dream Length Restoring Shampoo with Vegetal Keratin 192.5 ml",
-      "Percantage": "30% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 251
     },
@@ -2724,7 +2724,7 @@
       "realPrice": "137",
       "offprice": "199",
       "description": "Unisex Fall Repair 3x Anti-Hair Fall Shampoo with Arginine 175ml",
-      "Percantage": "31% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 252
     },
@@ -2734,7 +2734,7 @@
       "realPrice": "695",
       "offprice": "0",
       "description": "Scalp Advanced Density Advanced Shampoo - 300 ml",
-      "Percantage": "05",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 253
     },
@@ -2744,7 +2744,7 @@
       "realPrice": "620",
       "offprice": "1129",
       "description": " Paris Dream Lengths Restoring Shampoo with Vegetal Keratin & Castor Oil 1L",
-      "Percantage": "45% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 254
     },
@@ -2754,7 +2754,7 @@
       "realPrice": "1215",
       "offprice": "1350",
       "description": "Reviver Hair Repair Sulfate Free Shampoo 250ml",
-      "Percantage": "10% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 255
     },
@@ -2764,7 +2764,7 @@
       "realPrice": "206",
       "offprice": "206",
       "description": "Indulekha Unisex Bringha Anti-Hairfall Shampoo 200 ml",
-      "Percantage": "15% OFF",
+      "Percantage": 15,
       "category": "Hair Cream",
       "id": 256
     },
@@ -2774,7 +2774,7 @@
       "realPrice": "249",
       "offprice": "0",
       "description": "Mix Fruit Hair Shampoo 240g",
-      "Percantage": "0%",
+      "Percantage": 10,
       "category": "Hair Cream",
       "id": 257
     },
@@ -2784,7 +2784,7 @@
       "realPrice": "675",
       "offprice": "750",
       "description": "Clarifying Shampoo for Deep Cleanse with Charcoal & Eucalyptus - 325ml",
-      "Percantage": "10% OFF",
+      "Percantage": 10,
       "category": "Hair Cream",
       "id": 258
     },
@@ -2794,7 +2794,7 @@
       "realPrice": "66",
       "offprice": "89",
       "description": "Paris Unisex Color Protect Shampoo 82.5 ml",
-      "Percantage": "25% OFF",
+      "Percantage": 10,
       "category": "Hair Cream",
       "id": 259
     },
@@ -2804,7 +2804,7 @@
       "realPrice": "Unisex Hair cleanser Bhringraj & Shikakai 200ml shampoo",
       "offprice": "0",
       "description": "Unisex Hair cleanser Bhringraj & Shikakai 200ml shampoo",
-      "Percantage": "0%",
+      "Percantage": 10,
       "category": "Hair Cream",
       "id": 260
     },
@@ -2814,7 +2814,7 @@
       "realPrice": "191",
       "offprice": "349",
       "description": "Men Hamilton Eau de Parfum 60 ml",
-      "Percantage": "45% OFF",
+      "Percantage": 10,
       "category": "PerFume",
       "id": 261
     },
@@ -2824,7 +2824,7 @@
       "realPrice": "551",
       "offprice": "849",
       "description": "Luxury Set of 4 Perfume - 20ml each",
-      "Percantage": "35% OFF",
+      "Percantage": 10,
       "category": "PerFume",
       "id": 262
     },
@@ -2834,7 +2834,7 @@
       "realPrice": "181",
       "offprice": "330",
       "description": "Signature Collection Voyage Amazon Woods Intense Premium Perfume Spray 120 ml",
-      "Percantage": "45% OFF",
+      "Percantage": 10,
       "category": "PerFume",
       "id": 263
     },
@@ -2844,7 +2844,7 @@
       "realPrice": "1600",
       "offprice": "3200",
       "description": "Men Voyage Eau De Toilette 100 ml",
-      "Percantage": "50% OFF",
+      "Percantage": 10,
       "category": "PerFume",
       "id": 264
     },
@@ -2854,7 +2854,7 @@
       "realPrice": "139",
       "offprice": "399",
       "description": "Women Blush Fragrance Mist 190 ml",
-      "Percantage": "65% OFF",
+      "Percantage": 10,
       "category": "PerFume",
       "id": 265
     },
@@ -2864,7 +2864,7 @@
       "realPrice": "162",
       "offprice": "325",
       "description": "Women Natural Body Spray - 70ml",
-      "Percantage": "50% OFF",
+      "Percantage": 10,
       "category": "PerFume",
       "id": 266
     },
@@ -2874,7 +2874,7 @@
       "realPrice": "162",
       "offprice": "325",
       "description": "Men Natural Gas-Free Long-Lasting Body Spray - 70ml",
-      "Percantage": "50% OFF",
+      "Percantage": 10,
       "category": "PerFume",
       "id": 267
     },
@@ -2884,7 +2884,7 @@
       "realPrice": "191",
       "offprice": "349",
       "description": "Men Black Code Eau de Parfum 60ml",
-      "Percantage": "45% OFF",
+      "Percantage": 10,
       "category": "PerFume",
       "id": 268
     },
@@ -2894,7 +2894,7 @@
       "realPrice": "999",
       "offprice": "999",
       "description": "Gold Edition Men Revolver Eau De Parfum 100ml",
-      "Percantage": "Rs. 500 OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 269
     },
@@ -2904,7 +2904,7 @@
       "realPrice": "1095",
       "offprice": "2190",
       "description": "Women Limited Edition Blush Eau de Parfum- 100 ml",
-      "Percantage": "50% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 270
     },
@@ -2914,7 +2914,7 @@
       "realPrice": "279",
       "offprice": "799",
       "description": "Men By The Sea Eau De Parfum - 100 ml",
-      "Percantage": "65% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 271
     },
@@ -2924,7 +2924,7 @@
       "realPrice": "2100",
       "offprice": "4200",
       "description": "Women Dare Eau De Toilette 100 ml",
-      "Percantage": "50% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 272
     },
@@ -2934,7 +2934,7 @@
       "realPrice": "139",
       "offprice": "399",
       "description": "Ivory Body Mist 190 ml",
-      "Percantage": "65% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 273
     },
@@ -2944,7 +2944,7 @@
       "realPrice": "528",
       "offprice": "1200",
       "description": "Men Whisky Smoke Eau De Parfum - 100 ml",
-      "Percantage": "56% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 274
     },
@@ -2954,7 +2954,7 @@
       "realPrice": "191",
       "offprice": "349",
       "description": "Men Hamilton Imperial Eua De Parfum 60 ml",
-      "Percantage": "45% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 275
     },
@@ -2964,7 +2964,7 @@
       "realPrice": "1596",
       "offprice": "1995",
       "description": "by Titan Set of 2 Verge & Sheer Mini Gift Set Perfumes for His & Her",
-      "Percantage": "20% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 276
     },
@@ -2974,7 +2974,7 @@
       "realPrice": "356",
       "offprice": "649",
       "description": "Men Hamilton Exclusive Collection - Eau de Parfum 60ml & Deodorant Body Spray 200ml",
-      "Percantage": "45% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 277
     },
@@ -2984,7 +2984,7 @@
       "realPrice": "551",
       "offprice": "849",
       "description": "Men Set of Impact - OUD - CEO - Dominus Eau De Parfum - 20 ml Each",
-      "Percantage": "35% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 278
     },
@@ -2994,7 +2994,7 @@
       "realPrice": "539",
       "offprice": "599",
       "description": "Women Original Zero One Long Lasting Eau De Parfum - 100 ml",
-      "Percantage": "10% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 279
     },
@@ -3004,7 +3004,7 @@
       "realPrice": "1650",
       "offprice": "3300",
       "description": "Men Classic Black Eau De Toilette 100 ml",
-      "Percantage": "50% OFF",
+      "Percantage": 40,
       "category": "PerFume",
       "id": 280
     }
