@@ -1,0 +1,162 @@
+/* Products showCase */
+.products-container {
+  width: 1400px;
+  margin: 90px auto 120px auto;
+}
+
+.item-1-image {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  margin: 50px 0 50px 0;
+}
+
+.item-1-image img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.text-banner-title {
+  color: #3e4152;
+  letter-spacing: 0.15em;
+  font-size: 1.8em;
+  margin: 40px 0 40px 15px;
+  max-height: 5em;
+  font-weight: 600;
+}
+
+.container-1-link {
+  display: flex;
+  justify-content: space-between;
+}
+
+.images-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 100px 10px;
+  max-width: 940px;
+}
+
+.images-container img {
+  width: 100%;
+  cursor: pointer;
+  transition: transform 0.6s, filter 0.6s ease-in-out;
+  transform-origin: center center;
+  filter: brightness(95%);
+}
+
+.image-container-5 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 15px;
+  margin-top: 10px;
+  margin-bottom: -30px;
+}
+
+.image-container-4 {
+  display: grid;
+  grid-template-rows: repeat(1, 1fr);
+  grid-row-gap: 10px;
+  margin-top: 100px;
+  margin-bottom: 2px;
+}
+
+.image-container-4 img {
+  width: 100%;
+  cursor: pointer;
+}
+
+.image-container-5 img {
+  width: 100%;
+  object-fit: cover;
+  transition: transform 0.6s, filter 0.6s ease-in-out;
+  transform-origin: center center;
+  filter: brightness(95%);
+  cursor: pointer;
+}
+
+.images-container img:hover,
+.image-container-5 img:hover,
+.image-container-6 .subpart-image img:hover {
+  filter: brightness(100%);
+  transform: scale(1.03);
+}
+
+.image-container-6 {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-row-gap: 10px;
+  margin-bottom: -100px;
+}
+
+.image-container-6 .heading-image img {
+  width: 100%;
+}
+
+.image-container-6 .subpart-image {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-column-gap: 10px;
+}
+
+.image-container-6 .subpart-image img {
+  width: 100%;
+  object-fit: contain;
+  transition: transform 0.6s, filter 0.6s ease-in-out;
+  transform-origin: center center;
+  filter: brightness(95%);
+}
+
+.link-container {
+  position: relative;
+  bottom: 100px;
+  right: 120px;
+}
+
+.link-container ul li {
+  list-style: none;
+}
+
+.link-container ul .head-link-1,
+.link-container ul .head-link-2,
+.link-container ul .head-link-3,
+.link-container ul .head-link-4,
+.link-container ul .head-link-5 {
+  font-size: 22px;
+
+  margin-bottom: 20px;
+  margin-top: 30px;
+  font-family: "Whitney", -apple-system, "BlinkMacSystemFont", "Segoe UI",
+    "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+.link-container ul .head-link-2,
+.link-container ul .head-link-3,
+.link-container ul .head-link-4,
+.link-container ul .head-link-5 {
+  margin-top: 22px;
+  font-size: 20px;
+  font-weight: 800px;
+}
+
+.link-container ul .sub-link {
+  font-size: 15px;
+  font-weight: 600px;
+  margin-bottom: 3.2px;
+  padding: 5px;
+  font-family: "Whitney", -apple-system, "BlinkMacSystemFont", "Segoe UI",
+    "Roboto", Helvetica, Arial, sans-serif;
+}
+
+.link-container ul .sub-link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Side Image */
+.side-image-1 {
+  position: fixed;
+  right: 0;
+  top: 450px;
+  cursor: pointer;
+}

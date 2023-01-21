@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
-        <link rel="stylesheet" href="styles/index.css">
-        <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="wishlist.css" />
     <title>Document</title>
-  </head>
-  <body>
+</head>
+
+<body>
     <header class="header">
         <a style="margin-left: 27px;cursor:pointer;" href="./index.html" class="logo"><img
                 src="./Images/Homepage/favicon.png" alt="logo">
-            <p style="font-size: 0.6rem; font-weight: bolder;margin-bottom: 1rem; color: rgb(226, 136, 0); ">Urban Attire</p></a>
+            <p style="font-size: 0.6rem; font-weight: bolder;margin-bottom: 1rem; color: rgb(226, 136, 0); ">Urban
+                Attire</p>
+        </a>
         <nav>
             <ul class="menu-items">
                 <li>
@@ -571,126 +575,131 @@
                 <span id="cart-count-info">0</span>
             </div>
         </div>
-    </header> 
+    </header>
     <div class="wishlistheader">
         My Wishlist <span id="lighter"></span>
     </div>
     <div>
         <div id="wishlistcontainer"></div>
-    <div id="remove"><img id="imgpop" src="" alt=""><span id="item"></span></div>
-          <!-- FOOTER SECTION -->
-    <div id="footer_body">
-        <footer>
-            <section id="section_1">
-                <div id="footer_first">
-                    <div>
-                        <h4>ONLINE SHOPPING</h4>
-                        <p>Men</p>
-                        <p>Women</p>
-                        <p>Kids</p>
-                        <p>home & Living</p>
-                        <p>Beauty</p>
-                        <p>Gift Cards</p>
-                        <p>myntra insider</p>
-    
-                        <h4>USEFUL LINKS</h4>
-                        <p>Blog</p>
-                        <p>Careers</p>
-                        <p>site map</p>
-                        <p>corporate information</p>
-                    </div>
-                    <div>
-                        <h4>CUSTOMER POLICIES</h4>
-                        <p>Contact Us</p>
-                        <p>FAQ</p>
-                        <p>T&C</p>
-                        <p>Terms Of Use</p>
-                        <p>Track Orders</p>
-                        <p>Shipping</p>
-                        <p>Cancellation</p>
-                        <p>Returns</p>
-                        <p>Privacy Policy</p>
-                        <p>Grivance Officer</p>
-                    </div>
-                    <div>
-                        <h4>EXPERIENCE MYNTRA APP ON MOBILE</h4>
-                        <img src="https://bit.ly/3LluZ4L" alt="android">
-                        <img src="https://bit.ly/3DmWQys" alt="ios">
-                        <h4 id="social_connect">KEEP IN TOUCH</h4>
-                        <div id="footer-img">
-                            <a href="https://www.facebook.com/myntra"><img
-                                    src="data:image/png;base64,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"
-                                    alt=""></a>
-                            <a href="https://twitter.com/myntra"> <img
-                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAB3CAMAAAAO5y+4AAAAYFBMVEUAAAD////Hx8f5+fnz8/PX19eNjY3l5eXLy8vPz8/d3d2VlZWhoaFxcXFgYGA0NDRra2tVVVV9fX21tbUcHBxPT0/r6+uoqKhERES7u7siIiIpKSkICAgQEBA7Ozuurq7L/E4uAAAESUlEQVRoge2a67KzKgyGQTyLtupS67Kt93+Xn67WVuQcpXtmT99fVSvPgCQkEIT/G6Ev98v9cqXyk7jv48T/JDfJSvRSkyUf4bYZ4pRFrrlRzlNn5alLLhH0dVFItv/2Ov8YbnCRYxE6Md/ZH+8IFYdwx6sKO6lb/kmCaphvXI7gUg11Huv5f34QNs9r78Ftaaic80opPu1bWUrz0+vqjP+43vw7B2JrEyyr3/aPSx5XBQib2GPnUZ65PYKD/Zs9luIHt1puAMCFPTbET+77e5eciWvkgbETd3Wzaa2wROkvhHoMchtg1K5vnwIbbi9rXabfaUr56VgMqEIB8+TaW3AbSfMyNXGSFffnxdYSMmNssG1Xp+H9k6J4+7TUxgpPhbbct3LM9Rc9DVuvE/+mocppPotGy8hppnuwGAlfvxlML+vZvKiY3QQikoeyAOUl6OfN/7wTwr+S56FmfpWS9zSqHm8juY/9pUoybFpRvHAV8cLQKciD/D2pbi9TQWrzHzKpy5Z9H5Xe8TTSNlBJYiBIf/Gaq52YAxV1GvJ9yZob6eLQSXfK2dVd/xYnf801jBquVc2kO5LMxIJrvrDczp23wDsAlxln/A6xjNjD5RyOdWwQr3PCLLf9AbQB0YYL9/E7uXvWcAsNHBcSCdur4bnQ5cVKuYD7CTBdc9Mp+i5pQvDonDuuuK8453S2D/8ttQoY0dk17K3rys8iQCYJ1Q9eceFRsLUua+5nPMafwjUXkMNCtQ7KETZY9Y/RNWW4HxvoE2a4rf6NY1Sx3I91uN9wfUgkbK+faMOF7LkBVOItFxQaWovyXN/5ijAp5bk4dR/YscO8rPvwTQNTUSHXPTgSc7HvdmE6YwnXMmuw1TaZXZ8veO66fN9u9TLnGoRCkmkTjVjFnb5y58aUuZ1t/hwnyMrDrZnfbN1wCfHbPjx8tPltIYZbN278VshhGa6zbFRwbrHmulodKI/9BHcQYBmuo/W/1nHdpKKlCMtyIxfJkngjm7VfBymw5Hxm4zcOj2kbydnf1k8enQ7LDuA4/3wsWGS6Yu6hy7/8aFdQV3CcGf/ID3ZF9QzRUXasOF0V11H0kE1tTqrDL0n9BhltD1l5CVY/LXdSEF52rcbqQ0ZlvUrk0aoADrmmSkFbJ6Mu+pFK5qdMuUDHqcNquCkwFLgoW9VxCdR1GVSgKLg1dGerkrep5ZIanCwZVUSIue0Id1jCcMqES4IKvrN0Mqwg23JJGu7xkGfT4o81l6RjtS8F7qQcIdePgjqrdh8hNfLyUJ4LOV4Ui8utldyjlNsVjR3U31JbZrLlSktqbaiGlUQMd/L+1a78pLCnLnYUZVD7uUkrjU24k+32JaDTl87CdITcudOj3Wo7ZFZVgFLujK5N05SG7oBy3FlBl2sW3oLGu5hi7iw/GUNBIHk5Z11s6vkh3EVtkMReXfdenKTH8My47vTlfrn/J+4/Fpwy3f2nj9wAAAAASUVORK5CYII="
-                                    alt=""></a>
-                            <a href="https://www.youtube.com/user/myntradotcom"> <img
-                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAACCCAMAAAC93eDPAAAAb1BMVEX///8RERELCwsMDAwQEBANDQ0ODg4PDw8AAADz8/Otra25ubmMjIwRFBKRkZEEBATIysns7Ow+Pj5JSko3NzcvMTC+v7/Pz8/V19be3t6EhoWam5shIiIbHRxSUlKfoaBnaGh2eHgBDAkjKCZcXV2qb3CfAAADLElEQVR4nO2a2ZaiMBBAJSgUWxZlFUUc/f9vnCDd7TKjqXCSfqr70H36QMilSCpbr1YEQRAEQRAEQRAEQRC/SzKjVNe1bdPImaZt206pr4tua1RtnZ14np/HXVlVVQEo/lyqstxdz3vO+yyTann9XV+xl4cLhkCI50LscG6WGewLZJVGJa0xdAtCUIIIXQjMAKttDdoC3NV/c4DUziCpINSw+cfzr3DJlcmhtVLgjmOg2cDOSsFNO3wiDMGmX6Tug6CB0UJh9KNwxCcpFbj/DjcHfMeUXoKgFc5oBQ/9YVYY0ApXXwolujEMMKeTe755zDvLr4gDdqRIthB6gaEzg6o8KYQgkQrdUZhfaJkCtlc2YKxgmsqEG3uFE1JBmr8DZM0A9p8L9mgFYxSmwV/u9JyMWYUCnZtSRBRu849smllZKYxIhR6Mr/Y9BcoKq8+BnjJoBRP3WVhagTDe/lPsglTgNgqr5HQBhlQQBVohslDQqYyDWXpWCLxE4RaJHFCREDFSIbdW0JHYb4AZg8eYRwWd1s9CJ0x3CobO9T8FvfwZdZvQkXhfTuAVTBGN3iyNuiuEsZsoRCbers5SHYf3/IJCklfsUzH/CukRPhp4V0gZCEMxvwr1ACw2FbNQMD7rVaG9wsd2+K0QIRU4xGsDzwrdGSAOTGU0bI1WWMcGHhXUJLA2Fplg+GHK+Ky7guoPEGGqvylgB+veQiG9gMAKxLHATllOaIWs0t3AAvTELUUqyC2YW81zsRGpIFE9YhoXjfe9FsNO4jEKfG8vEATopUwDkfl9EPf8o1CgF3TdgVk/HqmAXdaq0psCdnGfbIUfhTV+83MAPwoheqNnNULgBYbf7uo9KVhs+klfCti0oLtEsQmCwoOCxcmMn8awsdgG1wOVDwWrw4AEIh8K2MR0g3sIg+XBUFI5d4itzoU07dqxQ4weJX/otsDcCejBPbM10OQX0EtEB/XHbNmBsUal12N0PzEXgr3LV8UX339HYuKn6HG06guvGrLuOc+vu62mxP3vgGa6ezvsOeenul4WgDckd5SUdfZALaW6X3VZKUEQBEEQBEEQBEEQhIm/XBFil4XPQxkAAAAASUVORK5CYII="
-                                    alt=""></a>
-                            <a href="https://www.instagram.com/myntra/"> <img
-                                    src="https://www.svgrepo.com/show/364604/instagram-logo-fill.svg"
-                                    alt=""></a>
-                        </div>
-                    </div>
-    
-                    <div>
+        <div id="remove"><img id="imgpop" src="" alt=""><span id="item"></span></div>
+        <!-- FOOTER SECTION -->
+        <div id="footer_body">
+            <footer>
+                <section id="section_1">
+                    <div id="footer_first">
                         <div>
-                            <img src="https://bit.ly/3JPiL47" alt="original">
-                            <p> <span>100% ORIGINAL</span> guarantee for all products at myntra.com</p>
+                            <h4>ONLINE SHOPPING</h4>
+                            <p>Men</p>
+                            <p>Women</p>
+                            <p>Kids</p>
+                            <p>home & Living</p>
+                            <p>Beauty</p>
+                            <p>Gift Cards</p>
+                            <p>myntra insider</p>
+
+                            <h4>USEFUL LINKS</h4>
+                            <p>Blog</p>
+                            <p>Careers</p>
+                            <p>site map</p>
+                            <p>corporate information</p>
                         </div>
                         <div>
-                            <img src="https://bit.ly/3uBalH4" alt="return_policy">
-                            <p><span>Return within 30days</span> of receiving your order</p>
+                            <h4>CUSTOMER POLICIES</h4>
+                            <p>Contact Us</p>
+                            <p>FAQ</p>
+                            <p>T&C</p>
+                            <p>Terms Of Use</p>
+                            <p>Track Orders</p>
+                            <p>Shipping</p>
+                            <p>Cancellation</p>
+                            <p>Returns</p>
+                            <p>Privacy Policy</p>
+                            <p>Grivance Officer</p>
+                        </div>
+                        <div>
+                            <h4>EXPERIENCE MYNTRA APP ON MOBILE</h4>
+                            <img src="https://bit.ly/3LluZ4L" alt="android">
+                            <img src="https://bit.ly/3DmWQys" alt="ios">
+                            <h4 id="social_connect">KEEP IN TOUCH</h4>
+                            <div id="footer-img">
+                                <a href="https://www.facebook.com/myntra"><img
+                                        src="data:image/png;base64,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"
+                                        alt=""></a>
+                                <a href="https://twitter.com/myntra"> <img
+                                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAB3CAMAAAAO5y+4AAAAYFBMVEUAAAD////Hx8f5+fnz8/PX19eNjY3l5eXLy8vPz8/d3d2VlZWhoaFxcXFgYGA0NDRra2tVVVV9fX21tbUcHBxPT0/r6+uoqKhERES7u7siIiIpKSkICAgQEBA7Ozuurq7L/E4uAAAESUlEQVRoge2a67KzKgyGQTyLtupS67Kt93+Xn67WVuQcpXtmT99fVSvPgCQkEIT/G6Ev98v9cqXyk7jv48T/JDfJSvRSkyUf4bYZ4pRFrrlRzlNn5alLLhH0dVFItv/2Ov8YbnCRYxE6Md/ZH+8IFYdwx6sKO6lb/kmCaphvXI7gUg11Huv5f34QNs9r78Ftaaic80opPu1bWUrz0+vqjP+43vw7B2JrEyyr3/aPSx5XBQib2GPnUZ65PYKD/Zs9luIHt1puAMCFPTbET+77e5eciWvkgbETd3Wzaa2wROkvhHoMchtg1K5vnwIbbi9rXabfaUr56VgMqEIB8+TaW3AbSfMyNXGSFffnxdYSMmNssG1Xp+H9k6J4+7TUxgpPhbbct3LM9Rc9DVuvE/+mocppPotGy8hppnuwGAlfvxlML+vZvKiY3QQikoeyAOUl6OfN/7wTwr+S56FmfpWS9zSqHm8juY/9pUoybFpRvHAV8cLQKciD/D2pbi9TQWrzHzKpy5Z9H5Xe8TTSNlBJYiBIf/Gaq52YAxV1GvJ9yZob6eLQSXfK2dVd/xYnf801jBquVc2kO5LMxIJrvrDczp23wDsAlxln/A6xjNjD5RyOdWwQr3PCLLf9AbQB0YYL9/E7uXvWcAsNHBcSCdur4bnQ5cVKuYD7CTBdc9Mp+i5pQvDonDuuuK8453S2D/8ttQoY0dk17K3rys8iQCYJ1Q9eceFRsLUua+5nPMafwjUXkMNCtQ7KETZY9Y/RNWW4HxvoE2a4rf6NY1Sx3I91uN9wfUgkbK+faMOF7LkBVOItFxQaWovyXN/5ijAp5bk4dR/YscO8rPvwTQNTUSHXPTgSc7HvdmE6YwnXMmuw1TaZXZ8veO66fN9u9TLnGoRCkmkTjVjFnb5y58aUuZ1t/hwnyMrDrZnfbN1wCfHbPjx8tPltIYZbN278VshhGa6zbFRwbrHmulodKI/9BHcQYBmuo/W/1nHdpKKlCMtyIxfJkngjm7VfBymw5Hxm4zcOj2kbydnf1k8enQ7LDuA4/3wsWGS6Yu6hy7/8aFdQV3CcGf/ID3ZF9QzRUXasOF0V11H0kE1tTqrDL0n9BhltD1l5CVY/LXdSEF52rcbqQ0ZlvUrk0aoADrmmSkFbJ6Mu+pFK5qdMuUDHqcNquCkwFLgoW9VxCdR1GVSgKLg1dGerkrep5ZIanCwZVUSIue0Id1jCcMqES4IKvrN0Mqwg23JJGu7xkGfT4o81l6RjtS8F7qQcIdePgjqrdh8hNfLyUJ4LOV4Ui8utldyjlNsVjR3U31JbZrLlSktqbaiGlUQMd/L+1a78pLCnLnYUZVD7uUkrjU24k+32JaDTl87CdITcudOj3Wo7ZFZVgFLujK5N05SG7oBy3FlBl2sW3oLGu5hi7iw/GUNBIHk5Z11s6vkh3EVtkMReXfdenKTH8My47vTlfrn/J+4/Fpwy3f2nj9wAAAAASUVORK5CYII="
+                                        alt=""></a>
+                                <a href="https://www.youtube.com/user/myntradotcom"> <img
+                                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAACCCAMAAAC93eDPAAAAb1BMVEX///8RERELCwsMDAwQEBANDQ0ODg4PDw8AAADz8/Otra25ubmMjIwRFBKRkZEEBATIysns7Ow+Pj5JSko3NzcvMTC+v7/Pz8/V19be3t6EhoWam5shIiIbHRxSUlKfoaBnaGh2eHgBDAkjKCZcXV2qb3CfAAADLElEQVR4nO2a2ZaiMBBAJSgUWxZlFUUc/f9vnCDd7TKjqXCSfqr70H36QMilSCpbr1YEQRAEQRAEQRAEQRC/SzKjVNe1bdPImaZt206pr4tua1RtnZ14np/HXVlVVQEo/lyqstxdz3vO+yyTann9XV+xl4cLhkCI50LscG6WGewLZJVGJa0xdAtCUIIIXQjMAKttDdoC3NV/c4DUziCpINSw+cfzr3DJlcmhtVLgjmOg2cDOSsFNO3wiDMGmX6Tug6CB0UJh9KNwxCcpFbj/DjcHfMeUXoKgFc5oBQ/9YVYY0ApXXwolujEMMKeTe755zDvLr4gDdqRIthB6gaEzg6o8KYQgkQrdUZhfaJkCtlc2YKxgmsqEG3uFE1JBmr8DZM0A9p8L9mgFYxSmwV/u9JyMWYUCnZtSRBRu849smllZKYxIhR6Mr/Y9BcoKq8+BnjJoBRP3WVhagTDe/lPsglTgNgqr5HQBhlQQBVohslDQqYyDWXpWCLxE4RaJHFCREDFSIbdW0JHYb4AZg8eYRwWd1s9CJ0x3CobO9T8FvfwZdZvQkXhfTuAVTBGN3iyNuiuEsZsoRCbers5SHYf3/IJCklfsUzH/CukRPhp4V0gZCEMxvwr1ACw2FbNQMD7rVaG9wsd2+K0QIRU4xGsDzwrdGSAOTGU0bI1WWMcGHhXUJLA2Fplg+GHK+Ky7guoPEGGqvylgB+veQiG9gMAKxLHATllOaIWs0t3AAvTELUUqyC2YW81zsRGpIFE9YhoXjfe9FsNO4jEKfG8vEATopUwDkfl9EPf8o1CgF3TdgVk/HqmAXdaq0psCdnGfbIUfhTV+83MAPwoheqNnNULgBYbf7uo9KVhs+klfCti0oLtEsQmCwoOCxcmMn8awsdgG1wOVDwWrw4AEIh8K2MR0g3sIg+XBUFI5d4itzoU07dqxQ4weJX/otsDcCejBPbM10OQX0EtEB/XHbNmBsUal12N0PzEXgr3LV8UX339HYuKn6HG06guvGrLuOc+vu62mxP3vgGa6ezvsOeenul4WgDckd5SUdfZALaW6X3VZKUEQBEEQBEEQBEEQhIm/XBFil4XPQxkAAAAASUVORK5CYII="
+                                        alt=""></a>
+                                <a href="https://www.instagram.com/myntra/"> <img
+                                        src="https://www.svgrepo.com/show/364604/instagram-logo-fill.svg" alt=""></a>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div>
+                                <img src="https://bit.ly/3JPiL47" alt="original">
+                                <p> <span>100% ORIGINAL</span> guarantee for all products at myntra.com</p>
+                            </div>
+                            <div>
+                                <img src="https://bit.ly/3uBalH4" alt="return_policy">
+                                <p><span>Return within 30days</span> of receiving your order</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </section>
-    
-    
-            <section id="section_2">
-                <h4>Popular Searches</h4>
-    
-                <p> Makeup | Dresses For Girls | T-Shirts | Sandals | Headphones | Babydolls | Blazers For Men | Handbags |
-                    Ladies Watches | Bags | Sport Shoes | Reebok Shoes | Puma Shoes | Boxers | Wallets | Tops | Earrings |
-                    Fastrack Watches | Kurtis | Nike | Smart Watches | Titan Watches | Designer Blouse | Gowns | Rings |
-                    Cricket Shoes | Forever 21 | Eye Makeup | Photo Frames | Punjabi Suits | Bikini | Myntra Fashion Show |
-                    Lipstick | Saree | Watches | Dresses | Lehenga | Nike Shoes | Goggles | Bras Suit | Chinos Shoes |
-                    Adidas Shoes | Woodland Shoes | Jewellery | Designers Sarees
-                </p>
-            </section>
-            <section id="section_3">
-                <div>
-                    <p>In case of any concern <a href="#"> contact us</a></p>
-                    <p>&#169; 2023 www.myntra.com. All rights reserved.</p>
-    
-                </div>
-            </section>
-            <hr>
-    
-            <!-- extra part for main section -->
-            <section id="section_4">
-                <div>
-                    <h4>Registered Office Address</h4>
-                    <p>Buildings Alyssa, <br>
-                        Begonia and Clover situated in Embassy Tech Village,<br>
-                        Outer Ring Road,<br>
-                        Devarabeesanahalli Village,<br>
-                        Varthur Hobli,<br>
-                        Bengaluru – 560103, India</p>
-                </div>
-                <div>
-                    <p> CIN: U72300KA2007PTC041799 <br>
-    
-                        Telephone: <span style="color: blue;">+91-80-61561999</span> </p>
-                </div>
-    
-            </section>
-            <hr>
-        </footer>
-    </div>
-   
-    <script src="wishlist.js"></script>
-  </body>
+                </section>
+
+
+                <section id="section_2">
+                    <h4>Popular Searches</h4>
+
+                    <p> Makeup | Dresses For Girls | T-Shirts | Sandals | Headphones | Babydolls | Blazers For Men |
+                        Handbags |
+                        Ladies Watches | Bags | Sport Shoes | Reebok Shoes | Puma Shoes | Boxers | Wallets | Tops |
+                        Earrings |
+                        Fastrack Watches | Kurtis | Nike | Smart Watches | Titan Watches | Designer Blouse | Gowns |
+                        Rings |
+                        Cricket Shoes | Forever 21 | Eye Makeup | Photo Frames | Punjabi Suits | Bikini | Myntra Fashion
+                        Show |
+                        Lipstick | Saree | Watches | Dresses | Lehenga | Nike Shoes | Goggles | Bras Suit | Chinos Shoes
+                        |
+                        Adidas Shoes | Woodland Shoes | Jewellery | Designers Sarees
+                    </p>
+                </section>
+                <section id="section_3">
+                    <div>
+                        <p>In case of any concern <a href="#"> contact us</a></p>
+                        <p>&#169; 2023 www.myntra.com. All rights reserved.</p>
+
+                    </div>
+                </section>
+                <hr>
+
+                <!-- extra part for main section -->
+                <section id="section_4">
+                    <div>
+                        <h4>Registered Office Address</h4>
+                        <p>Buildings Alyssa, <br>
+                            Begonia and Clover situated in Embassy Tech Village,<br>
+                            Outer Ring Road,<br>
+                            Devarabeesanahalli Village,<br>
+                            Varthur Hobli,<br>
+                            Bengaluru – 560103, India</p>
+                    </div>
+                    <div>
+                        <p> CIN: U72300KA2007PTC041799 <br>
+
+                            Telephone: <span style="color: blue;">+91-80-61561999</span> </p>
+                    </div>
+
+                </section>
+                <hr>
+            </footer>
+        </div>
+
+        <script src="wishlist.js"></script>
+</body>
+
 </html>
 
 <!-- #remove{
