@@ -10,6 +10,7 @@ body {
   font-weight: bolder;
   height: 50px;
   line-height: 50px;
+  border: 2px solid blue;
 }
 #lighter {
   font-weight: lighter;
@@ -28,6 +29,7 @@ body {
   grid-auto-rows: minmax(min-content, 400px);
   grid-template-rows: minmax(min-content, 400px);
   margin-bottom: 80px;
+  border: 2px solid green;
 }
 .card > img {
   /* border: 2px solid red; */

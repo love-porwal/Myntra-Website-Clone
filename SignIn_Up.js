@@ -27,12 +27,12 @@ let signIn=document.querySelector(".signIn");
         })
         if(count>0)
         {
-            alert("Users already registered!");
+            alert("Users Already Registered!");
         }
         else{
             if(fsignUp.password.value!=fsignUp.passwordChk.value)
             {
-                alert("password do not match");
+                alert("Password do not Match");
             }
             else{
                 let user ={
@@ -70,16 +70,16 @@ let signIn=document.querySelector(".signIn");
        })
        if(count==0)
        {
-        alert("User not registered");
+        alert("User Not Registered");
        }
        else{
         if(temp.password != obj.password)
         {
-            alert("wrong password");
+            alert("Wrong Password");
         }
         else{
-            alert("login successfull");
-            window.location.assign("./index.html")
+            alert("Login Successfull");
+            window.location.assign("./home.html")
         }
        }
       

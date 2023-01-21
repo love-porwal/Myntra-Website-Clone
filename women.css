@@ -12,6 +12,9 @@ body {
     -webkit-font-smoothing: antialiased;
     margin-top: 13vh;
   }
+  #Products-stuff img:hover {
+    border: 1px solid black;
+  }
   
   #Products-stuff div:nth-child(1) {
     color: #282c3f;
@@ -40,10 +43,10 @@ body {
     display: flex;
   }
   
-  #main-filter {
+  /* #main-filter {
     margin: -10px;
     padding: 0;
-  }
+  } */
   
   #Products-stuff .fltr {
     width: 20%;
@@ -105,6 +108,7 @@ body {
     width: 100%;
     display: flex;
     margin-top: 10px;
+    margin-bottom: 30px;
   }
   
   #ProductFilter {
