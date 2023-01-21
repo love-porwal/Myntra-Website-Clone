@@ -6,7 +6,7 @@
     ],
     "Second": [
         {
-            "img": "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2023/1/12/3d8b5917-e115-425b-8c93-2c2e427f9d4f1673517461716-OMG-Deal--2-.jpg"
+            "img": "./Images/ban-2.PNG"
         }
     ],
     "Third": [
@@ -73,7 +73,7 @@
     ],
     "Four": [
         {
-            "img": "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2023/1/12/e78ea5f5-8bcc-43e2-afce-529b95a166081673517538108-Grand-Brands.jpg"
+            "img": "./Images/ban-4.PNG"
         }
     ],
     "Five": [
@@ -140,7 +140,7 @@
     ],
     "Six": [
         {
-            "img": "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2023/1/12/1c508dcd-ee9f-4485-81a5-71d97bf512e31673517538088-Brands-To-Bag.jpg"
+            "img": "./Images/ban-6.PNG"
         }
     ],
     "Seven": [
@@ -201,7 +201,7 @@
     ],
     "Eight": [
         {
-            "img": "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2023/1/11/2eb7efa2-1743-43b4-94c0-8b634d1be9af1673439896772-Budget-Buys--3-.jpg"
+            "img": "./Images/ban-8.PNG"
         }
     ],
     "Nine": [
@@ -256,7 +256,7 @@
     ],
     "Ten": [
         {
-            "img": "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2023/1/11/ba62da25-d69a-441f-a639-4bd08534f3451673416953973-Shop-By-Category--2-.jpg"
+            "img": "./Images/ban-10.PNG"
         }
     ],
     "Eleven": [
@@ -349,12 +349,7 @@
         },
         {
             "img": "https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2023/1/8/b0fde03d-e392-46dc-9a54-d5511853e9441673167109556-HP_Shop-By-Category_31.jpg"
-        },
-        {
-            "img": "https://assets.myntassets.com/w_490,c_limit,fl_progressive,dpr_2.0/assets/images/2023/1/8/78e0472c-9103-4958-a064-0756429c20211673167109565-HP_Shop-By-Category_32.jpg"
-        },
-        {
-            "img": "https://assets.myntassets.com/w_490,c_limit,fl_progressive,dpr_2.0/assets/images/2023/1/8/c83cf759-2c0b-40e7-acc8-0d4c6a48f89b1673167109573-HP_Shop-By-Category_33.jpg"
         }
+       
     ]
 }

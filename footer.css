@@ -41,7 +41,9 @@ footer img {
 #footer-img img:hover {
     border: 1px solid black;
 }
-
+/* #section_2,#section_3,#section_1,#section_4,#section_5 {
+    margin-bottom: 20px;
+} */
 #section_3 div {
     display: flex;
     justify-content: space-between;
@@ -50,6 +52,7 @@ footer img {
 #section_4 {
     display: flex;
     justify-content: space-between;
+    
 }
 
 #section_4 div:nth-child(2) p {
