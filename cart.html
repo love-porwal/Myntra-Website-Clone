@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/fontawesome.min.css"
+      integrity="sha512-giQeaPns4lQTBMRpOOHsYnGw1tGVzbAIHUyHRgn7+6FmiEgGGjaG0T2LZJmAPMzRCl+Cug0ItQ2xDZpTmEc+CQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/solid.min.css"
+      integrity="sha512-6mc0R607di/biCutMUtU9K7NtNewiGQzrvWX4bWTeqmljZdJrwYvKJtnhgR+Ryvj+NRJ8+NnnCM/biGqMe/iRA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="cart.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav>
+      <div class="logo"></div>
+      <div>
+        <span id="bag">BAG</span>-------------<span>ADDRESS </span
+        >-------------<span>PAYMENT</span>
+      </div>
+      <div id="img">
+        <img
+          src="https://constant.myntassets.com/checkout/assets/img/sprite-secure.png"
+          alt=""
+        />100% SECURE
+      </div>
+    </nav>
+    <div class="container">
+      <div id="display">
+        <div id="show">
+          <div id="Offers">
+            <div class="avail">Available Offers</div>
+            <ul>
+              <li class="para">
+                10% Instant Discount on Citi Credit and Debit Cards on a min
+                spend of Rs 3,000. TCA
+              </li>
+              <div id="pararemove">
+                <li class="para">
+                  10% Instant Discount on ICICI Bank Credit Cards on a min spend
+                  of Rs 4,000. TCA
+                </li>
+                <li class="para">
+                  10% Instant Discount on IDFC FIRST Credit and Debit Cards on a
+                  min spend of Rs 2,500. TCA
+                </li>
+                <li class="para">
+                  5% Cashback on Paytm Wallet and Postpaid Transactions on a min
+                  spend of Rs 1,500. TCA
+                </li>
+                <li class="para">
+                  Get up to Rs 500 Cashback on CRED Pay UPI on a min spend of Rs
+                  1,000. TCA
+                </li>
+                <li class="para">
+                  5% Unlimited Cashback on Flipkart Axis Bank Credit Card. TCA
+                </li>
+                <li class="para">
+                  10% Cashback upto Rs 150 on Freecharge Paylater transaction.
+                  TCA
+                </li>
+              </div>
+            </ul>
+            <div id="More">show More</div>
+            <div id="less">show less</div>
+          </div>
+          <div id="selected">
+            <span id="count">6</span> item selected
+            <span class="right wish">
+              <a href="wishlist.html">MOVE TO WISHLIST</a>
+            </span>
+          </div>
+          <div id="mainsection"></div>
+        </div>
+      </div>
+      <div id="bill">
+        <div id="coupon">Coupons</div>
+        <div id="Apply">
+          <i class="fa-regular fa-tag"></i>Apply Coupons
+          <button class="right" id="btn">APPLY</button>
+        </div>
+        <div class="gift">GIFTING & PERSONALISATION</div>
+        <div class="ribbinimg">
+          <div id="imgribbon">
+            <img
+              src="https://constant.myntassets.com/checkout/assets/img/gift-big.webp"
+              alt=""
+            />
+          </div>
+          <div>
+            <p class="buy margin">Buying for a loved one?</p>
+            <p class="margin gray line">
+              Gift wrap and personalised message on card, Only for
+              <strong>Rs 25</strong>
+            </p>
+            <p class="margin gray line">
+              Gift wrap and personalised message on card, Only for
+            </p>
+            <p class="wrap">ADD GIFT WRAP</p>
+          </div>
+        </div>
+        <div class="detail">PRICE DETAILS <span id="item">6 item</span></div>
+        <div class="grid">
+          <div class="gray margin">
+            Total MRP <span class="right gray" id="mrp">Rs 24,194</span>
+          </div>
+          <div class="gray margin">
+            Discount on MRP <span class="right green" id="Discount">-6348</span>
+          </div>
+          <div class="gray margin">
+            Coupon Discount <span class="right lightorange">Apply Coupon</span>
+          </div>
+          <div class="gray margin">
+            Convenience Fee <span class="right">99 FREE</span>
+          </div>
+        </div>
+        <div class="total">
+          Total Amount <span class="right" id="total">Rs 17,6594</span>
+        </div>
+        <div class="place" id="place-order">PLACE ORDER</div>
+      </div>
+    </div>
+    <div id="remove">
+      <img id="imgpop" src="" alt="" />
+      <span id="specialitem">1
+      </span>
+    </div>
+    <div class="SIMILAR">SIMILAR PRODUCTS</div>
+    <div id="wishlistcontainer"></div>
+    <script src="cart.js"></script>
+  </body>
+</html>
