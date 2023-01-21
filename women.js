@@ -3,13 +3,13 @@ fetch('dummy.json').then((res)=>{
 })
 .then((data)=>{
     console.log(data.Mens)
-    localStorage.setItem("mens", JSON.stringify(data.Mens))
+    localStorage.setItem("women", JSON.stringify(data.Womens))
 })
 .catch((err)=>{
     console.log(err)
 })
 
-let mens_data=JSON.parse(localStorage.getItem("mens"))||[]
+let women_data=JSON.parse(localStorage.getItem("women"))||[]
 let productGridItems = document.getElementById("productGridItems");
 
 
@@ -88,16 +88,16 @@ const displayProducts = (data) => {
   });
 };
 
-displayProducts(mens_data)
+displayProducts(women_data)
 
 let sortButton = document.getElementById("sortButton");
 sortButton.addEventListener("change", sortProducts);
 
 function sortProducts() {
   let sortCriteria = sortButton.value;
-  let mens_data = JSON.parse(localStorage.getItem("mens"))||[];
+  let women_data = JSON.parse(localStorage.getItem("women"))||[];
 
-  let updatedProductList = mens_data.sort((prodA, prodB) => {
+  let updatedProductList = women_data.sort((prodA, prodB) => {
     if (sortCriteria === "asc") {
       return prodA.realPrice - prodB.realPrice;
     } else if (sortCriteria === "desc") {
@@ -123,22 +123,22 @@ function sortProducts() {
   let FilterBrand = document.getElementById("filterButtonBrand");
 
   FilterBrand.addEventListener("click", (event) => {
-      let productList = JSON.parse(localStorage.getItem("mens"));
+      let productList = JSON.parse(localStorage.getItem("women"));
       let filter = event.target.checked;
       let sortCriteria = sortButton.value;
       let filterCriteria = event.target.value;
       if (filter) {
         let updatedProductList = productList.filter((prod) => {
-          if (filterCriteria === "Roadster") {
-            return prod.title == "Roadster";
-          } else if (filterCriteria === "WROGN") {
-            return prod.title == "WROGN";
-          } else if (filterCriteria === "HRX by Hrithik Roshan") {
-            return prod.title == "HRX by Hrithik Roshan";
-          } else if (filterCriteria === "Louis Philippe Sport") {
-            return prod.title == "Louis Philippe Sport";
-          } else if (filterCriteria === "Puma") {
-            return prod.title == "Puma";
+          if (filterCriteria === "KALINI") {
+            return prod.title == "KALINI";
+          } else if (filterCriteria === "Mitera") {
+            return prod.title == "Mitera";
+          } else if (filterCriteria === "Libas") {
+            return prod.title == "Libas";
+          } else if (filterCriteria === "Anouk") {
+            return prod.title == "Anouk";
+          } else if (filterCriteria === "Sangria") {
+            return prod.title == "Sangria";
           } else {
             return true;
           }
@@ -158,7 +158,7 @@ function sortProducts() {
         displayProducts(updatedProductList);
       }
       else{
-        displayProducts(JSON.parse(localStorage.getItem("mens")))
+        displayProducts(JSON.parse(localStorage.getItem("women")))
       }
     });
 //=============================================================================
@@ -209,21 +209,21 @@ function sortProducts() {
   let FilterPrice = document.getElementById("filterButtonPrice");
 
 FilterPrice.addEventListener("click", (event) => {
-  let prodList = JSON.parse(localStorage.getItem("mens"));
+  let prodList = JSON.parse(localStorage.getItem("women"));
   let filter = event.target.checked;
 
   if (filter) {
     let filterCriteria = event.target.value;
 
     let updatedProductList = prodList.filter((prod) => {
-      if (filterCriteria === "174-1881") {
-        return prod.realPrice >= 174 && prod.realPrice <= 1881;
-      } else if (filterCriteria === "1881-3588") {
-        return prod.realPrice > 1881 && prod.realPrice <= 3588;
-      } else if (filterCriteria === "3588-5295") {
-        return prod.realPrice > 3588 && prod.realPrice <= 5299;
-      } else if (filterCriteria === "5295-7002") {
-        return prod.realPrice > 5295 && prod.realPrice <= 7002;
+      if (filterCriteria === "249-4687") {
+        return prod.realPrice >= 249 && prod.realPrice <= 4687;
+      } else if (filterCriteria === "4687-7588") {
+        return prod.realPrice > 4687 && prod.realPrice <= 7588;
+      } else if (filterCriteria === "7588-10295") {
+        return prod.realPrice > 7588 && prod.realPrice <= 10295;
+      } else if (filterCriteria === "10295-27002") {
+        return prod.realPrice > 10295 && prod.realPrice <= 27002;
       } else {
         return true;
       }
