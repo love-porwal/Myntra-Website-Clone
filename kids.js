@@ -3,13 +3,13 @@ fetch('dummy.json').then((res)=>{
 })
 .then((data)=>{
     console.log(data.Mens)
-    localStorage.setItem("mens", JSON.stringify(data.Mens))
+    localStorage.setItem("kid", JSON.stringify(data.kids))
 })
 .catch((err)=>{
     console.log(err)
 })
 
-let mens_data=JSON.parse(localStorage.getItem("mens"))||[]
+let kid_data=JSON.parse(localStorage.getItem("kid"))||[]
 let productGridItems = document.getElementById("productGridItems");
 
 
@@ -88,16 +88,16 @@ const displayProducts = (data) => {
   });
 };
 
-displayProducts(mens_data)
+displayProducts(kid_data)
 
 let sortButton = document.getElementById("sortButton");
 sortButton.addEventListener("change", sortProducts);
 
 function sortProducts() {
   let sortCriteria = sortButton.value;
-  let mens_data = JSON.parse(localStorage.getItem("mens"))||[];
+  let kid_data = JSON.parse(localStorage.getItem("kid"))||[];
 
-  let updatedProductList = mens_data.sort((prodA, prodB) => {
+  let updatedProductList = kid_data.sort((prodA, prodB) => {
     if (sortCriteria === "asc") {
       return prodA.realPrice - prodB.realPrice;
     } else if (sortCriteria === "desc") {
@@ -123,22 +123,22 @@ function sortProducts() {
   let FilterBrand = document.getElementById("filterButtonBrand");
 
   FilterBrand.addEventListener("click", (event) => {
-      let productList = JSON.parse(localStorage.getItem("mens"));
+      let productList = JSON.parse(localStorage.getItem("kid"));
       let filter = event.target.checked;
       let sortCriteria = sortButton.value;
       let filterCriteria = event.target.value;
       if (filter) {
         let updatedProductList = productList.filter((prod) => {
-          if (filterCriteria === "Roadster") {
-            return prod.title == "Roadster";
-          } else if (filterCriteria === "WROGN") {
-            return prod.title == "WROGN";
-          } else if (filterCriteria === "HRX by Hrithik Roshan") {
-            return prod.title == "HRX by Hrithik Roshan";
-          } else if (filterCriteria === "Louis Philippe Sport") {
-            return prod.title == "Louis Philippe Sport";
-          } else if (filterCriteria === "Puma") {
-            return prod.title == "Puma";
+          if (filterCriteria === "Crocs") {
+            return prod.title == "Crocs";
+          } else if (filterCriteria === "H&M") {
+            return prod.title == "H&M";
+          } else if (filterCriteria === "HELLCAT") {
+            return prod.title == "HELLCAT";
+          } else if (filterCriteria === "max") {
+            return prod.title == "max";
+          } else if (filterCriteria === "YK") {
+            return prod.title == "YK";
           } else {
             return true;
           }
@@ -158,50 +158,10 @@ function sortProducts() {
         displayProducts(updatedProductList);
       }
       else{
-        displayProducts(JSON.parse(localStorage.getItem("mens")))
+        displayProducts(JSON.parse(localStorage.getItem("kid")))
       }
     });
 //=============================================================================
-//filter by price 
-  // let FilterPrice = document.getElementById("filterButtonPrice");
-  
-  // FilterPrice.addEventListener("click", (event) => {
-  //   let men_data = JSON.parse(localStorage.getItem("mens"));
-  //   let filter = event.target.checked;
-  //   let sortCriteria = sortButton.value;
-  //   let filterCriteria = event.target.value;
-  
-  //   if (filter) {  
-  //     let updatedProductList = men_data.filter((prod) => {
-  //       if (filterCriteria === "Roadster") {
-  //         return prod.title == "Roadster";
-  //       } else if (filterCriteria === "WROGN") {
-  //         return prod.title == "WROGN";
-  //       } else if (filterCriteria === "HRX by Hrithik Roshan") {
-  //         return prod.title == "HRX by Hrithik Roshan";
-  //       } else if (filterCriteria === "Louis Philippe Sport") {
-  //         return prod.title == "Louis Philippe Sport";
-  //       } else if (filterCriteria === "Puma") {
-  //         return prod.title == "Puma";
-  //       } else {
-  //         return true;
-  //       }
-  //     }).sort((prodA, prodB) => {
-  //       if (sortCriteria === "asc") {
-  //         return prodA.realPrice - prodB.realPrice ;
-  //       } else if (sortCriteria === "desc") {
-  //         return prodB.realPrice  - prodA.realPrice ;
-  //       } else if (sortCriteria === "whatsNew") {
-  //         return prodB.id - prodA.id;
-  //       }  else if (sortCriteria === "Discount") {
-  //         return prodB.Percantage - prodA.Percantage;
-  //       } else {
-  //         return true;
-  //       }
-  //     });
-  //     displayProducts(updatedProductList);
-  //   }
-  // });
 
 
 
@@ -209,21 +169,21 @@ function sortProducts() {
   let FilterPrice = document.getElementById("filterButtonPrice");
 
 FilterPrice.addEventListener("click", (event) => {
-  let prodList = JSON.parse(localStorage.getItem("mens"));
+  let prodList = JSON.parse(localStorage.getItem("kid"));
   let filter = event.target.checked;
 
   if (filter) {
     let filterCriteria = event.target.value;
 
     let updatedProductList = prodList.filter((prod) => {
-      if (filterCriteria === "174-1881") {
-        return prod.realPrice >= 174 && prod.realPrice <= 1881;
-      } else if (filterCriteria === "1881-3588") {
-        return prod.realPrice > 1881 && prod.realPrice <= 3588;
-      } else if (filterCriteria === "3588-5295") {
-        return prod.realPrice > 3588 && prod.realPrice <= 5299;
-      } else if (filterCriteria === "5295-7002") {
-        return prod.realPrice > 5295 && prod.realPrice <= 7002;
+      if (filterCriteria === "249-4687") {
+        return prod.realPrice >= 249 && prod.realPrice <= 4687;
+      } else if (filterCriteria === "4687-7588") {
+        return prod.realPrice > 4687 && prod.realPrice <= 7588;
+      } else if (filterCriteria === "7588-10295") {
+        return prod.realPrice > 7588 && prod.realPrice <= 10295;
+      } else if (filterCriteria === "10295-27002") {
+        return prod.realPrice > 10295 && prod.realPrice <= 27002;
       } else {
         return true;
       }
