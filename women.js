@@ -162,47 +162,42 @@ function sortProducts() {
       }
     });
 //=============================================================================
-//filter by price 
-  // let FilterPrice = document.getElementById("filterButtonPrice");
-  
-  // FilterPrice.addEventListener("click", (event) => {
-  //   let men_data = JSON.parse(localStorage.getItem("mens"));
-  //   let filter = event.target.checked;
-  //   let sortCriteria = sortButton.value;
-  //   let filterCriteria = event.target.value;
-  
-  //   if (filter) {  
-  //     let updatedProductList = men_data.filter((prod) => {
-  //       if (filterCriteria === "Roadster") {
-  //         return prod.title == "Roadster";
-  //       } else if (filterCriteria === "WROGN") {
-  //         return prod.title == "WROGN";
-  //       } else if (filterCriteria === "HRX by Hrithik Roshan") {
-  //         return prod.title == "HRX by Hrithik Roshan";
-  //       } else if (filterCriteria === "Louis Philippe Sport") {
-  //         return prod.title == "Louis Philippe Sport";
-  //       } else if (filterCriteria === "Puma") {
-  //         return prod.title == "Puma";
-  //       } else {
-  //         return true;
-  //       }
-  //     }).sort((prodA, prodB) => {
-  //       if (sortCriteria === "asc") {
-  //         return prodA.realPrice - prodB.realPrice ;
-  //       } else if (sortCriteria === "desc") {
-  //         return prodB.realPrice  - prodA.realPrice ;
-  //       } else if (sortCriteria === "whatsNew") {
-  //         return prodB.id - prodA.id;
-  //       }  else if (sortCriteria === "Discount") {
-  //         return prodB.Percantage - prodA.Percantage;
-  //       } else {
-  //         return true;
-  //       }
-  //     });
-  //     displayProducts(updatedProductList);
-  //   }
-  // });
+//////////////////////////////////filter by discount///////////////////////////
+let Filterdiscount = document.getElementById("filterButtonDiscount");
 
+Filterdiscount.addEventListener("click", (event) => {
+  let prodList = JSON.parse(localStorage.getItem("women"));
+  let filter = event.target.checked;
+
+  if (filter) {
+    let filterCriteria = event.target.value;
+
+    let updatedProductList = prodList.filter((prod) => {
+      if (filterCriteria === "10") {
+        return prod.Percantage >= 10 ;
+      } else if (filterCriteria === "20") {
+        return prod.Percantage >= 20 ;
+      } else if (filterCriteria === "30") {
+        return prod.Percantage > 30 ;
+      } else if (filterCriteria === "40") {
+        return prod.Percantage > 40;
+      } else if (filterCriteria === "50") {
+        return prod.Percantage >= 50 ;
+      } else if (filterCriteria === "60") {
+        return prod.Percantage > 60 ;
+      } else if (filterCriteria === "70") {
+        return prod.Percantage > 70;
+      } else if (filterCriteria === "80") {
+        return prod.Percantage > 80 ;
+      } else if (filterCriteria === "90") {
+        return prod.Percantage > 90;
+      } else {
+        return true;
+      }
+    });
+    displayProducts(updatedProductList);
+  }
+});
 
 
   //
