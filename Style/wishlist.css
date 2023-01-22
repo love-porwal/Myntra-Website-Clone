@@ -8,14 +8,16 @@ body {
   margin: auto;
   margin-top: 90px;
   font-weight: bolder;
-  height: 50px;
-  line-height: 50px;
-  border: 2px solid blue;
+  /* height: 50px; */
+  line-height: 30px;
+  /* border: 2px solid blue; */
 }
+
 #lighter {
   font-weight: lighter;
   font-size: 20px;
 }
+
 #wishlistcontainer {
   /* border: 2px solid red;   */
   width: 90%;
@@ -27,15 +29,17 @@ body {
   /* grid-row-gap: 5%;  */
   grid-gap: 30px;
   grid-auto-rows: minmax(min-content, 400px);
-  grid-template-rows: minmax(min-content, 400px);
+  /* grid-template-rows: minmax(min-content, auto); */
   margin-bottom: 80px;
-  border: 2px solid green;
+  
 }
-.card > img {
+
+.card>img {
   /* border: 2px solid red; */
   width: 100%;
   height: 70%;
 }
+
 .offprice {
   text-decoration: line-through;
   opacity: 0.7;
@@ -43,6 +47,7 @@ body {
   padding: 0 3px;
   color: #282c3f;
 }
+
 .card {
   /* border: 2px solid red; */
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
@@ -50,24 +55,28 @@ body {
   position: relative;
 }
 
-.card > div {
+.card>div {
   margin-top: 2%;
   margin-bottom: 4%;
 }
+
 .three {
   /* border: 2px solid red; */
   justify-content: center;
   font-size: small;
   display: flex;
 }
-.three > span {
+
+.three>span {
   margin-left: 1%;
 }
+
 .description {
   /* border: 2px solid red; */
   color: #282c3f;
   text-align: center;
 }
+
 .btn {
   border: 1px solid lightslategray;
   text-align: center;
@@ -79,6 +88,7 @@ body {
   color: #ff3e6c;
   font-weight: 700;
 }
+
 .Percantage {
   color: #ff905a;
   font-weight: 700;
@@ -104,10 +114,12 @@ body {
   font-weight: 700;
   color: #fff;
 }
+
 #imgpop {
   height: 50px;
   /* border: 2px solid red; */
 }
+
 #remove {
   /* border: 2px solid red; */
   position: fixed;
@@ -147,11 +159,13 @@ body {
     grid-auto-rows: minmax(min-content, 400px);
     grid-template-rows: minmax(min-content, 400px);
   }
-  .three > span {
+
+  .three>span {
     margin-right: 1%;
     margin-left: 1%;
   }
 }
+
 @media screen and (max-width: 550px) {
   #wishlistcontainer {
     width: 100%;
@@ -161,9 +175,9 @@ body {
     grid-auto-rows: minmax(min-content, 400px);
     grid-template-rows: minmax(min-content, 400px);
   }
-  .three > span {
+
+  .three>span {
     margin-right: 1%;
     margin-left: 1%;
   }
 }
-

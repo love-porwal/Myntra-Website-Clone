@@ -1,8 +1,8 @@
-* {
+/* * {
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
-}
+} */
 nav {
   display: flex;
   /* border-bottom: 1px solid #696b79; */
@@ -11,10 +11,10 @@ nav {
   color: #696b79;
   background-color: #fff;
   width: 100%;
-  min-height: 78px;
+  min-height: 70px;
   max-width: 92%;
   margin: auto;
-  line-height: 78px;
+  line-height: 70px;
 }
 nav img {
   /* border: 2px solid red; */
