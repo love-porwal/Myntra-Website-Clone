@@ -79,7 +79,7 @@ let signIn=document.querySelector(".signIn");
         }
         else{
             alert("Login Successfull");
-            window.location.assign("./home.html")
+            window.location.assign("../index.html")
         }
        }
       
