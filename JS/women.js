@@ -1,3 +1,11 @@
+let cartcount = document.getElementById("cart-count-info");
+localcart = JSON.parse(localStorage.getItem("localcart"));
+      if (localcart == null) {
+        localcart = [];
+      }
+      cartcount.innerHTML = localcart.length;
+
+
 fetch('dummy.json').then((res)=>{
     return res.json()
 })
