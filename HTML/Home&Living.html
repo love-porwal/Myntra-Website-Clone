@@ -807,7 +807,14 @@
 
     </footer>
   </div>
-
+<script>
+  let cartcount = document.getElementById("cart-count-info");
+localcart = JSON.parse(localStorage.getItem("localcart"));
+      if (localcart == null) {
+        localcart = [];
+      }
+      cartcount.innerHTML = localcart.length;
+</script>
 </body>
 
 </html>

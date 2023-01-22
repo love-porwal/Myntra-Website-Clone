@@ -42,11 +42,7 @@ function render() {
     offprice.classList.add("offprice");
     let Percantage = document.createElement("span");
     Percantage.classList.add("Percantage");
-    if (element.Percantage.includes("OFF")) {
-      Percantage.innerHTML = `(${element.Percantage})`;
-    } else {
-      Percantage.innerHTML = `(${element.Percantage}OFF)`;
-    }
+    Percantage.innerHTML = `(${element.Percantage}%OFF)`;
     let cross = document.createElement("span");
     cross.innerHTML = "&times";
     cross.setAttribute("class", "cross");

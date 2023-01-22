@@ -1,8 +1,15 @@
 // first
+
+let cartcount = document.getElementById("cart-count-info");
+localcart = JSON.parse(localStorage.getItem("localcart"));
+      if (localcart == null) {
+        localcart = [];
+      }
+      cartcount.innerHTML = localcart.length;
 fetch("main.json").then((res) => {
     return res.json()
 }).then((data) => {
-    console.log(data.First)
+    // console.log(data.First)
 
     firstdisplay(data.First);
 
@@ -20,7 +27,7 @@ function firstdisplay(data) {
 fetch("main.json").then((res) => {
     return res.json()
 }).then((data) => {
-    console.log(data.Second)
+    // console.log(data.Second)
 
     seconddisplay(data.Second);
 
