@@ -185,3 +185,6 @@ form>div>input{
 #Free{
     color: green;
 }
+.footer_container img:hover {
+    border: 1px solid black;
+  }

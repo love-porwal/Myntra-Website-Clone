@@ -1,0 +1,94 @@
+*{
+   padding:0px;
+   margin:0px;
+   font-family:calibri;
+   box-sizing:border-box;
+}
+body,html{
+   background: #FCEEEA;
+   width:100%;
+   height:100%;
+   margin:auto;
+   /* text-align:center; */
+}
+#top{
+   margin:15px 15px;
+   display:flex;
+   justify-content:space-between;
+}
+#top1{
+   display:flex;
+   gap:20px;
+}
+#top1 button{
+   padding:10px 15px;
+   font-size:20px;
+   background:#FF3E6C;
+   color:white;
+}
+h3{
+   font-size:2em;
+   margin-left:20px;
+}
+.Add_Data{
+  /* display:none; */
+   width:400px;
+   margin:auto;
+   margin-top:30px;
+   background:white;;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+   background-image:"https://media.istockphoto.com/id/1133980246/photo/shopping-online-concept-shopping-service-on-the-online-web-with-payment-by-credit-card-and.jpg?s=612x612&w=0&k=20&c=joeQ74hTCWThhW6XfnBsCUc5Qp3YB868J-hyBWxGSUM=" ;
+}
+#Add_Data{
+   width:350px;
+   margin:auto;
+   text-align:center;
+   
+
+}
+#Add_Data>input{
+   width:80%;
+   
+   margin-top: 10px;
+   height:30px;
+   padding:10px;
+   border:none;
+   border-bottom: solid black 1px;
+  };
+  #Add_Data>select{
+     margin-top:15px;
+     width:80%;
+     margin:auto;
+  }
+  .Remove_Data{
+     display:none;
+     width:400px;
+     margin:auto;
+     margin-top:30px;
+     background:white;;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+     background-image:"https://media.istockphoto.com/id/1133980246/photo/shopping-online-concept-shopping-service-on-the-online-web-with-payment-by-credit-card-and.jpg?s=612x612&w=0&k=20&c=joeQ74hTCWThhW6XfnBsCUc5Qp3YB868J-hyBWxGSUM=" ;
+  }
+  #Remove_Data{
+     width:350px;
+     margin:auto;
+     text-align:center;
+  }
+  #Remove_Data>input{
+     width:80%;
+     
+     margin-top: 10px;
+     height:30px;
+     padding:10px;
+     border:none;
+     border-bottom: solid black 1px;
+    };
+    .table{
+     width:400px;
+     margin:auto;
+     text-align: center;
+    }
+    #table{
+     width:100%;
+     margin:auto;
+    }

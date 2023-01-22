@@ -5,7 +5,7 @@
 }
 nav {
   display: flex;
-  border-bottom: 1px solid #696b79;
+  /* border-bottom: 1px solid #696b79; */
   justify-content: space-around;
   align-items: center;
   color: #696b79;

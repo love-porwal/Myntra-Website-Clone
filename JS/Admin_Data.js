@@ -138,6 +138,4 @@ add_btn.addEventListener("click",()=>{
 remove_btn.addEventListener("click",()=>{
     Add_div.style.display="none"
     Remove_div.style.display="block"
-}) 
-
-
+})
