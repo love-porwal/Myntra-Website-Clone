@@ -18,17 +18,20 @@ let img = document.getElementById("img");
 let content = document.getElementById("content");
 let Amout = document.getElementById("Amout");
 function render() {
-  let localproduct = JSON.parse(localStorage.getItem("localproduct"));
+  let localproduct = JSON.parse(localStorage.getItem("PoductDetalisData"));
+  console.log(localproduct)
   if (localproduct == null) {
     localproduct = [];
   }
   let last = [];
+  
   if (localproduct.length != 0) {
     last.push(localproduct[localproduct.length - 1]);
   }
+  console.log(last)
   last.forEach((element) => {
     let image = document.createElement("img");
-    image.src = element.img;
+    image.setAttribute("src",element.img) ;
     let title = document.createElement("strong");
     title.innerHTML = element.title;
     let description = document.createElement("div");
@@ -51,11 +54,7 @@ function render() {
     offprice.classList.add("offprice");
     let Percantage = document.createElement("span");
     Percantage.classList.add("Percantage");
-    if (element.Percantage.includes("OFF")) {
-      Percantage.innerHTML = `(${element.Percantage})`;
-    } else {
-      Percantage.innerHTML = `(${element.Percantage}OFF)`;
-    }
+    Percantage.innerHTML = `(${element.Percantage}OFF)`;
     span.setAttribute("class", "fa-solid fa-star");
     let tax = document.createElement("div");
     tax.innerHTML = "inclusive of all taxes";
@@ -189,11 +188,8 @@ function wishlistrender(data) {
     offprice.classList.add("offprice");
     let Percantage = document.createElement("span");
     Percantage.classList.add("Percantage");
-    if (element.Percantage.includes("OFF")) {
-      Percantage.innerHTML = `(${element.Percantage})`;
-    } else {
-      Percantage.innerHTML = `(${element.Percantage}OFF)`;
-    }
+    Percantage.innerHTML = `(${element.Percantage}OFF)`;
+
 
     let bag = document.createElement("div");
     bag.classList.add("btn");
