@@ -30,5 +30,3 @@ let Discount = document.querySelector("#Discount");
 Discount.innerText = "Rs." + obj.Discount;
 let Total_Amount = document.querySelector("#Total_Amount");
 Total_Amount.innerText = "Rs." + obj.totalamount;
-let Discount = document.querySelector("#Discount");
-Discount.innerText = "Rs." + obj.Discount;
