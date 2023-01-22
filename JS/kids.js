@@ -73,15 +73,17 @@ const displayProducts = (data) => {
     image_div.append (img, wishListDiv);
 
     outer_div.append(image_div, div);
-
+    let  x=JSON.parse(localStorage.getItem("PoductDetalisData"))||[]
+    x.push(product)
+    
     img.addEventListener("click", () => {
-      localStorage.setItem("PoductDetalisData", JSON.stringify(product));
-    //   window.location.href = "../HTML/productDetail.html";
+      localStorage.setItem("PoductDetalisData", JSON.stringify(x));
+      window.location.href = "../HTML/product.html";
     });
 
     div.addEventListener("click", () => {
-      localStorage.setItem("PoductDetalisData", JSON.stringify(product));
-    //   window.location.href = "../HTML/productDetail.html";
+      localStorage.setItem("PoductDetalisData", JSON.stringify(x));
+      window.location.href = "../HTML/product.html";
     });
 
     productGridItems.append(outer_div);
@@ -107,7 +109,7 @@ function sortProducts() {
     }else if (sortCriteria === "Discount") {
       return prodB.discount - prodA.discount;;
     } else {
-      return true;
+      return  true;
     }
   });
   displayProducts(updatedProductList);
