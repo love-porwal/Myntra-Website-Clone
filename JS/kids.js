@@ -109,7 +109,7 @@ function sortProducts() {
     }else if (sortCriteria === "Discount") {
       return prodB.discount - prodA.discount;;
     } else {
-      return true;
+      return  true;
     }
   });
   displayProducts(updatedProductList);
