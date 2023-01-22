@@ -4,6 +4,7 @@ fetch("dummy.json").then((res)=>{
 .then((data)=>{
     console.log(data.Mens)
     localStorage.setItem("mens", JSON.stringify(data.Mens))
+    // window.location.reload()
 })
 .catch((err)=>{
     console.log(err)

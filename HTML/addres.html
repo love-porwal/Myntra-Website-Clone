@@ -1,105 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../Style/addres.css"/>
-    <link rel="stylesheet" href="../Style/payment.css" />
-   
-    <title>Address</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../Style/payment.css" />
+  <link rel="stylesheet" href="../Style/addres.css" />
+
+  <link rel="icon" href="../Images/Homepage/Logo-1.png" />
+
+  <title>Address Details</title>
 </head>
+
 <body>
-    <div class="header">
-        <div class="logo">
-          <a href="../index.html"> <img src="../Images/Homepage/Logo-1.png" alt="Myntra" width="60px" /></a>
-        </div>
-        <nav>
-          <ul>
-            <li>
-              <a>BAG</a>
-            </li>
-            <li>----------</li>
-            <li><a>ADDRESS</a></li>
-            <li>----------</li>
-            <li>
-              <a id="current_step">PAYMENT</a>
-            </li>
-          </ul>
-        </nav>
-        <div class="secure-logo">
-          <img src="https://constant.myntassets.com/checkout/assets/img/sprite-secure.png" alt="sprite-secure" height="28px"
-            width="25px" />
-          <p>100% SECURE</p>
-        </div>
-      </div>
-      <hr class="hr1" />
-    <div class="add">
-        <div>
-            <form id="form">
-                <h4>CONTACT DETAILS</h4>
-                <input type="text" placeholder="Name*" id="Name" required>
-                <input type="number" placeholder="Mobile No*" id="mobile" required>
-                <h4>ADDRESS</h4>
-                <input type="number" placeholder="Pin Code*" id="Pin" required>
-                <input type="text" placeholder="Address(House,No,Building,Street,Area)*" id="Home" required>
-                <input type="text" placeholder="Location/Town*" id="location" required>
-                <div>
-                    <input type="text" placeholder="City*" id="city" required>
-                    <input type="text" placeholder="State*" id="state"  required>
-                </div>
-                <div id="check">
-                <input type="checkbox" id="address1" name="padd" value="checked" required>
-                <label for="address1">Make this my Default Address</label>
-                </div>
-                <div id="send">
-                 <button id="btn">ADD ADDRESS</button>
-                </div>
-            </form>
-        </div>
-        <div id="right">
-            <div>
-                <div><p>PRICE DETAILS(0 items)</p></div>
-            </div>
-            <div>
-                <div><p>Total MRP</p></div>
-                <div><p><span id="Total_Mrp">Rs.0</span></p></div>
-            </div>
-            <div>
-                <div><p>Discount On MRP</p></div>
-                <div><p><span id="Discount">Rs.0</span></p></div>
-            </div>
-            <div>
-                <div><p>Convinience Fee</p></div>
-                <div><p><span id="Free">FREE</span></p></div>
-            </div>
-            <hr id="hr">
-            <div id="final">
-                <div><h3>Total Amount</h3></div>
-                <div><h3><span id="Total_Amount">Rs.0</span></h3></div>
-            </div>
-            
-        </div>
+  <div class="header">
+    <div class="logo">
+      <a href="../index.html"> <img src="../Images/Homepage/Logo-1.png" alt="Myntra" width="60px" /></a>
     </div>
-    <div class="footer_container">
-        <div class="footer-images">
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-ssl.png" width="110" />
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-visa.png" width="90" />
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-mc.png" width="90" />
-          <img class="footer-bank-ae" src="https://constant.myntassets.com/checkout/assets/img/footer-bank-ae.png"
-            width="90" />
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-dc.png" width="90" />
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-nb.png" width="100" />
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-cod.png" width="110" />
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-rupay.png" width="90" />
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-paypal.png" width="90" />
-          <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-bhim.png" width="90" />
+    <nav>
+      <ul>
+        <li>
+          <a>BAG</a>
+        </li>
+        <li>----------</li>
+        <li><a id="current_step">ADDRESS</a></li>
+        <li>----------</li>
+        <li>
+          <a>PAYMENT</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="secure-logo">
+      <img src="https://constant.myntassets.com/checkout/assets/img/sprite-secure.png" alt="sprite-secure" height="28px"
+        width="25px" />
+      <p>100% SECURE</p>
+    </div>
+  </div>
+  <hr class="hr1" />
+  <div class="add">
+    <div>
+      <form id="form">
+        <h4>CONTACT DETAILS</h4>
+        <input type="text" placeholder="Name*" id="Name" required>
+        <input type="number" placeholder="Mobile No*" id="mobile" required>
+        <h4>ADDRESS</h4>
+        <input type="number" placeholder="Pin Code*" id="Pin" required>
+        <input type="text" placeholder="Address(House,No,Building,Street,Area)*" id="Home" required>
+        <input type="text" placeholder="Location/Town*" id="location" required>
+        <div>
+          <input type="text" placeholder="City*" id="city" required>
+          <input type="text" placeholder="State*" id="state" required>
         </div>
-        <div class="Help">
-          <a href="" class="NeedHelp" style="color: black">
-            <b class="NeedHelp">Need Help ? Contact Us </b></a>
+        <div id="check">
+          <input type="checkbox" id="address1" name="padd" value="checked" required>
+          <label for="address1">Make this my Default Address</label>
+        </div>
+        <div id="send">
+          <button id="btn">ADD ADDRESS</button>
+        </div>
+      </form>
+    </div>
+    <div id="right">
+      <div>
+        <div>
+          <p>PRICE DETAILS(0 items)</p>
         </div>
       </div>
+      <div>
+        <div>
+          <p>Total MRP</p>
+        </div>
+        <div>
+          <p><span id="Total_Mrp">Rs.0</span></p>
+        </div>
+      </div>
+      <div>
+        <div>
+          <p>Discount On MRP</p>
+        </div>
+        <div>
+          <p><span id="Discount">Rs.0</span></p>
+        </div>
+      </div>
+      <div>
+        <div>
+          <p>Convinience Fee</p>
+        </div>
+        <div>
+          <p><span id="Free">FREE</span></p>
+        </div>
+      </div>
+      <hr id="hr">
+      <div id="final">
+        <div>
+          <h3>Total Amount</h3>
+        </div>
+        <div>
+          <h3><span id="Total_Amount">Rs.0</span></h3>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="footer_container">
+    <div class="footer-images">
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-ssl.png" width="110" />
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-visa.png" width="90" />
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-mc.png" width="90" />
+      <img class="footer-bank-ae" src="https://constant.myntassets.com/checkout/assets/img/footer-bank-ae.png"
+        width="90" />
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-dc.png" width="90" />
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-nb.png" width="100" />
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-cod.png" width="110" />
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-rupay.png" width="90" />
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-paypal.png" width="90" />
+      <img src="https://constant.myntassets.com/checkout/assets/img/footer-bank-bhim.png" width="90" />
+    </div>
+    <div class="Help">
+      <a href="" class="NeedHelp" style="color: black">
+        <b class="NeedHelp">Need Help ? Contact Us </b></a>
+    </div>
+  </div>
 </body>
 <script src="../JS/addres.js"></script>
+
 </html>
