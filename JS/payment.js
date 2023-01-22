@@ -16,7 +16,6 @@ accordionItemHeaders.forEach((accordionItemHeader) => {
 // COD--->
 var inp = document.querySelector(".item-1-input");
 var pass = JSON.parse(localStorage.getItem("id-details"));
-console.log(inp.value);
 var form = document
   .querySelector(".btn-item-1")
   .addEventListener("click", (e) => {
@@ -110,39 +109,48 @@ function showMore() {
 }
 var price = JSON.parse(localStorage.getItem("cart"));
 let Price_after_discount = JSON.parse(localStorage.getItem("total"));
-console.log(Price_after_discount);
 var changedPrice = document.querySelector(".price-details");
 let total = 0;
-changedPrice.innerHTML = `
-<h3>PRICE DETAILS (${length()})</h3>
-<div class="price-1">
-  <p>Total MRP to be Paid</p>
-  <span>&#8377;${Price_after_discount}</span>
-</div>
-<div class="price-2">
-  <p>Discount on MRP</p>
-  <span>&#8377;-${discount(Price_after_discount)}.00</span>
-</div>
-<div class="price-2">
-  <p>Convenience Fee</p>
-  <span class="knowmore">Know More</span>
-  <span>FREE</span>
-</div>`;
+// changedPrice.innerHTML = `
+// <h3>PRICE DETAILS (${length()})</h3>
+// <div class="price-1">
+//   <p>Total MRP to be Paid</p>
+//   <span>&#8377;${Price_after_discount}</span>
+// </div>
+// <div class="price-2">
+//   <p>Discount on MRP</p>
+//   <span>&#8377;-${discount(Price_after_discount)}.00</span>
+// </div>
+// <div class="price-2">
+//   <p>Convenience Fee</p>
+//   <span class="knowmore">Know More</span>
+//   <span>FREE</span>
+// </div>`;
 // totalMrp();
-function totalMrp() {
-  for (var i = 0; i < price.length; i++) {
-    total += price[i].off_price;
-  }
-  return total;
-}
-function discount(p) {
-  var price_before_discount = totalMrp() - p;
-  return price_before_discount;
-}
-function length() {
-  if (price.length == 1) {
-    return price.length + " " + "Item";
-  } else {
-    return price.length + " " + "Items";
-  }
-}
+// function totalMrp() {
+//   for (var i = 0; i < price.length; i++) {
+//     total += price[i].off_price;
+//   }
+//   return total;
+// }
+// function discount(p) {
+//   var price_before_discount = totalMrp() - p;
+//   return price_before_discount;
+// }
+// function length() {
+//   if (price.length == 1) {
+//     return price.length + " " + "Item";
+//   } else {
+//     return price.length + " " + "Items";
+//   }
+// }
+
+
+localcart = JSON.parse(localStorage.getItem("localcart")) || [];
+let count = document.getElementById("count");
+count.innerHTML=`${localcart.length} items`
+let obj = JSON.parse(localStorage.getItem("total_price")) || {};
+let Total_Mrp = document.querySelector("#Total_Mrp");
+Total_Mrp.innerHTML = "Rs." + obj.totalprice;
+let Discount = document.querySelector("#Discount");
+Discount.innerText = "Rs." + obj.Discount;
