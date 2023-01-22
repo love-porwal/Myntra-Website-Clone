@@ -28,6 +28,7 @@ body,html{
     }
 .signIn{
         width:400px;
+        height:500px;
         background: white;
         margin:auto;
         box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
@@ -35,6 +36,7 @@ body,html{
         margin-top:50px;
         font-size:30px;
         padding:20px;
+        padding-top: 40px;
         
     }
    
@@ -69,12 +71,12 @@ body,html{
         width:30%;
         margin-top:20px;
     }
-.signIn>div{
+/* .signIn>div{
         display:flex;
         font-size: 25px;
         text-align: center;
         margin:0% 25%;
-    }
+    } */
 .signUp{
     width:400px;
     background:white;
@@ -115,6 +117,16 @@ text-align: center;
 .signIn>p{
     font-size: 20px;
     line-height: 5px;;
+}
+#bottom{
+    margin-top: 40px;
+    display:flex;
+    justify-content: space-around;
+    gap:0px;
+    width:90%;
+    margin:auto;
+    text-align: center;
+    font-size:20px;
 }
 
    

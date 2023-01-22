@@ -144,6 +144,7 @@ function cartcountshow() {
           return element;
         }
       });
+      console.log(arr)
       wishlistrender(arr);
     });
 }
