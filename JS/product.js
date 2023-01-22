@@ -114,11 +114,12 @@ function render() {
 
 
     add.addEventListener("click", () => {
+      let obj={...element,quantity:1}
       localcart = JSON.parse(localStorage.getItem("localcart"));
       if (localcart == null) {
         localcart = [];
       }
-      localcart.push(element);
+      localcart.push(obj);
       cartcount.innerHTML = localcart.length;
       localStorage.setItem("localcart", JSON.stringify(localcart));
       item.innerHTML = "item Succesfully added to bag";
@@ -189,8 +190,6 @@ function wishlistrender(data) {
     let Percantage = document.createElement("span");
     Percantage.classList.add("Percantage");
     Percantage.innerHTML = `(${element.Percantage}OFF)`;
-
-
     let bag = document.createElement("div");
     bag.classList.add("btn");
     bag.innerHTML = "MOVE TO BAG";
@@ -203,11 +202,13 @@ function wishlistrender(data) {
     }
     cartcount.innerHTML = localcart.length;
     bag.addEventListener("click", () => {
+      let obj={...element,quantity:1}
       localcart = JSON.parse(localStorage.getItem("localcart"));
       if (localcart == null) {
         localcart = [];
       }
-      localcart.push(element);
+      localcart.push(obj);
+      cartcount.innerHTML = localcart.length;
       localStorage.setItem("localcart", JSON.stringify(localcart));
       item.innerHTML = "item Succesfully added to bag";
       imgpop.src = element.img;

@@ -169,12 +169,7 @@ function wishlistrender(data) {
     offprice.classList.add("cartoffprice");
     let Percantage = document.createElement("span");
     Percantage.classList.add("cartPercantage");
-    if (element.Percantage.includes("OFF")) {
-      Percantage.innerHTML = `(${element.Percantage})`;
-    } else {
-      Percantage.innerHTML = `(${element.Percantage}OFF)`;
-    }
-
+    Percantage.innerHTML = `(${element.Percantage}%OFF)`;
     let bag = document.createElement("div");
     bag.classList.add("cartbtn");
     bag.innerHTML = "MOVE TO BAG";
