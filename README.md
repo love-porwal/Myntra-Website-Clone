@@ -7,9 +7,6 @@ Myntra is an e-commerce website where people can buy from wide range of products
 A Collaborative project built by a team of 4 executed in 5 days.
 
 
-![Logo](https://cosmic-duckanoo-c53863.netlify.app/Images/Homepage/favicon.png)
-
-
 ## Demo  🎥
 
 - Deployed Link:- [Enjoy the Experience](https://cosmic-duckanoo-c53863.netlify.app/)
