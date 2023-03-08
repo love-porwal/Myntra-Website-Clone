@@ -18,6 +18,7 @@ A Collaborative project built by a team of 4 executed in 5 days.
 - CSS3
 - JAVASCRIPT
 - Local Storage
+- JSON
 
 **No External Libraries has been used.**
 
