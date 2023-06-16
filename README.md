@@ -1,5 +1,5 @@
 
-# Urban Attire  [Myntra - Website - Clone]
+# Urban Attire  [ Myntra-Website-Clone ]
 
 Urban Attire is an e-commerce website where people can buy from wide range of products and has an interactive UI. We are a one stop shop for all your fashion and lifestyle needs.
 
